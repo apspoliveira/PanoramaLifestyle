@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Newstart",
+    "slug": "newstart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/newstart-icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "newstart.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "newstart.app",
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.SCHEDULE_EXACT_ALARM"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-image",
+      "expo-font",
+      [
+        "expo-notifications",
+        {
+          "color": "#9C27B0",
+          "defaultChannel": "NEWSTART_Notifications"
+        }
+      ]
+    ],
+    "scheme": "newstart"
+  }
+}
