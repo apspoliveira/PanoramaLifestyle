@@ -1,0 +1,2222 @@
+{
+  "1": [
+    {
+      "day": 1,
+      "breakfast": "PT_AVEIA_MIRTILOS",
+      "lunch": "PT_SALADA_QUINOA_LEGUMES",
+      "dinner": "PT_BROCOLIS_TOFU_GRELHADO"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_PANQUECAS_INTEGRAIS",
+      "lunch": "PT_TACOS_FEIJAO_MILHO",
+      "dinner": "PT_SOPA_LENTILHA_COUVE"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_SMOOTHIE_LINHACA",
+      "lunch": "PT_CARIL_GRAO_BICO",
+      "dinner": "PT_SALADA_VERDE_SEMENTES"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_PAPA_SARRACENO",
+      "lunch": "PT_WRAP_HUMUS",
+      "dinner": "PT_SALTEADO_TEMPEH"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_PUDIM_CHIA",
+      "lunch": "PT_CHILI_BATATA_DOCE",
+      "dinner": "PT_COUVE_FLOR_TAHINI"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_TORRADA_ABACATE",
+      "lunch": "PT_GISADO_LENTILHAS",
+      "dinner": "PT_ZOODLES_PESTO"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_PAINCO_CAJU",
+      "lunch": "PT_BOWL_QUINOA_FEIJAO",
+      "dinner": "PT_BATATA_DOCE_FOLHAS_VERDES"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_MEXIDO_TOFU_ESPINAFRES",
+      "lunch": "PT_SALADA_FARRO",
+      "dinner": "PT_RAIZES_ASSADAS_ALHO"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_TACA_ACAI",
+      "lunch": "PT_MASSA_LENTILHA_MARINARA",
+      "dinner": "PT_SALADA_COUVE_QUINOA"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_QUINOA_PEQUENO_ALMOCO",
+      "lunch": "PT_EMPADAO_LENTILHA",
+      "dinner": "PT_ESPARGOS_ASSADOS"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_TORRADA_AMENDOIM_BANANA",
+      "lunch": "PT_BOWL_BUDDHA_GRAO",
+      "dinner": "PT_PIMENTOS_RECHEADOS"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_SMOOTHIE_BOWL_FRUTOS_SECOS",
+      "lunch": "PT_SOPA_CEVADA_VEGETAIS",
+      "dinner": "PT_RISOTO_COGUMELOS"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_PAPAS_MILHO",
+      "lunch": "PT_WRAP_FALAFEL",
+      "dinner": "PT_LASANHA_BERINGELA"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_AVEIA_MACA_CANELA",
+      "lunch": "PT_SOPA_ERVILHA",
+      "dinner": "PT_TOFU_AGRIDOCE"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_BURRITO_VEG",
+      "lunch": "PT_TABULE_SALSA",
+      "dinner": "PT_COUVE_BRUXELAS_BALSAMICO"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_GRANOLA_LEITE_AMENDOAS",
+      "lunch": "PT_SOPA_MINESTRONE",
+      "dinner": "PT_BOK_CHOY_TEMPEH"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_ABOCATE_CENTEIO",
+      "lunch": "PT_SALADA_FEIJAO_FRADE",
+      "dinner": "PT_ABOBORA_ASSADA_QUINOA"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_MUESLI_FRUTAS",
+      "lunch": "PT_PAELLA_VEGETAIS",
+      "dinner": "PT_BIFES_PORTOBELLO"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_QUINOA_PESSEGOS",
+      "lunch": "PT_SOPA_REPOLHO_BATATAS",
+      "dinner": "PT_BIFES_COUVE_FLOR"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_PANQUECAS_BANANA",
+      "lunch": "PT_SALADA_GRAO_MEDITERRANEA",
+      "dinner": "PT_SALTEADO_BROCOLIS_CAJU"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_AVEIA_ABOBORA",
+      "lunch": "PT_KORMA_VEGETAIS",
+      "dinner": "PT_BETERRABA_GLACIADA"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_IOGURTE_SOJA_FRUTAS",
+      "lunch": "PT_SOPA_FEIJAO_BRANCO",
+      "dinner": "PT_SALADA_REPOLHO_CENOURA"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_PAO_ESPELTA_MANTEIGA",
+      "lunch": "PT_LENTILHA_ARROZ_MUJADARA",
+      "dinner": "PT_ALCACHOFRAS_VAPOR"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_MEXIDO_TOFU_VEGETAIS",
+      "lunch": "PT_SALADA_GRAO_ASSADO",
+      "dinner": "PT_PALITOS_BATATA_DOCE"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_PAPAS_PERA_NOZ",
+      "lunch": "PT_CHILI_TRES_FEIJOES",
+      "dinner": "PT_VAGEM_ALHO"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_SMOOTHIE_ESPINAFRES",
+      "lunch": "PT_SUSHI_VEGGIE",
+      "dinner": "PT_SOPA_MISO_TOFU"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_SARRACENO_ERVAS",
+      "lunch": "PT_GISADO_TOMATE_LENTILHAS",
+      "dinner": "PT_ERVILHAS_QUEBRAR_SALTEADAS"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_SALADA_FRUTA_CANHAMO",
+      "lunch": "PT_QUINOA_ROMA",
+      "dinner": "PT_SALTEADO_ABOBORINHA_MILHO"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_TORRADA_HUMUS",
+      "lunch": "PT_SOPA_CEVADA_COGUMELOS",
+      "dinner": "PT_VEGETAIS_VAPOR"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_PARFAIT_VEGAN",
+      "lunch": "PT_TOFU_BROCOLIS_AMENDOIM",
+      "dinner": "PT_ABOBORA_MENINA_ASSADA"
+    },
+    {
+      "day": 31,
+      "breakfast": "PT_AVEIA_FIGOS",
+      "lunch": "PT_BOWL_QUINOA_MEXICANO",
+      "dinner": "PT_ACELGA_ALHO"
+    }
+  ],
+  "2": [
+    {
+      "day": 1,
+      "breakfast": "PT_FEB_SMOOTHIE_MANGA",
+      "lunch": "PT_FEB_SALADA_GRAO_ESPINAFRES",
+      "dinner": "PT_FEB_SOPA_VERDE"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_FEB_AVEIA_AMENDOA",
+      "lunch": "PT_FEB_RISOTO_ABOBORA",
+      "dinner": "PT_FEB_OMELETE_ESPINAFRES"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_FEB_PANQUECAS_MIRTILO",
+      "lunch": "PT_FEB_MASSA_PESTO_TOMATE",
+      "dinner": "PT_FEB_SALADA_TROPICAL"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_FEB_PUDIM_CHIA_MORANGO",
+      "lunch": "PT_FEB_ESTUFADO_FEIJAO_BRANCO",
+      "dinner": "PT_FEB_TOFU_GRELHADO_SALADA"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_FEB_TORRADA_RICOTA",
+      "lunch": "PT_FEB_HAMBURGUER_LENTILHAS",
+      "dinner": "PT_FEB_SOPA_CENOURA_LARANJA"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_FEB_SMOOTHIE_VERDE",
+      "lunch": "PT_FEB_CARIL_VEGETAIS_COCO",
+      "dinner": "PT_FEB_SANDES_VEG_HUMUS"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_FEB_TACA_IOGURTE",
+      "lunch": "PT_FEB_QUINOA_COGUMELOS",
+      "dinner": "PT_FEB_OVOS_ESCALFADOS_TOMATE"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_FEB_MEXIDO_TOFU_COGUMELOS",
+      "lunch": "PT_FEB_SOPA_ABOBORA_GENGIBRE",
+      "dinner": "PT_FEB_CREME_ERVILHAS"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_FEB_PAPAS_AVELA",
+      "lunch": "PT_FEB_SALADA_LENTILHAS_FETA",
+      "dinner": "PT_FEB_TOFU_MARINADO_LEGUMES"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_FEB_SMOOTHIE_BANANA_CACAU",
+      "lunch": "PT_FEB_LASANHA_VEGETARIANA",
+      "dinner": "PT_FEB_MINIESTRONE_LEVE"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_FEB_TORRADA_ABACATE_OVO",
+      "lunch": "PT_FEB_ARROZ_ERVAS_TOFU",
+      "dinner": "PT_FEB_SALADA_QUINOA_SIMPLES"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_FEB_GRANOLA_IOGURTE_MEL",
+      "lunch": "PT_FEB_FEIJOADA_VEG",
+      "dinner": "PT_FEB_COGUMELOS_SALTEADOS_ERVAS"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_FEB_PAPA_QUINOA_COCO",
+      "lunch": "PT_FEB_GRATINADO_LEGUMES",
+      "dinner": "PT_FEB_SOPA_FEIJAO_VERDE"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_FEB_AVEIA_AMORA",
+      "lunch": "PT_FEB_SALADA_MACARRAO_VEG",
+      "dinner": "PT_FEB_TOFU_SALTEADO_PIMENTOS"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_FEB_PANQUECAS_AVEIA_CANELA",
+      "lunch": "PT_FEB_STROGONOFF_COGUMELOS",
+      "dinner": "PT_FEB_SALADA_MACARRAO_FRIO"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_FEB_SMOOTHIE_PITAYA",
+      "lunch": "PT_FEB_WRAP_FALAFEL_SALADA",
+      "dinner": "PT_FEB_SOPA_CEBOLA_GRATINADA"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_FEB_TORRADA_TOMATE_ALHO",
+      "lunch": "PT_FEB_SOPA_LENTILHAS_VERMELHAS",
+      "dinner": "PT_FEB_TABULE_SIMPLES"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_FEB_MUESLI_IOGURTE",
+      "lunch": "PT_FEB_BATATA_RECHEADA_VEG",
+      "dinner": "PT_FEB_COUVE_FLOR_GRELHADA"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_FEB_AVEIA_PERA_CANELA",
+      "lunch": "PT_FEB_SALADA_QUINOA_MANGA",
+      "dinner": "PT_FEB_SOPA_GRAO_ESPINAFRES"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_FEB_SMOOTHIE_LARANJA_CENOURA",
+      "lunch": "PT_FEB_PAELLA_COGUMELOS",
+      "dinner": "PT_FEB_WRAP_TOFU_LEGUMES"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_FEB_PUDIM_CHIA_CHOCOLATE",
+      "lunch": "PT_FEB_COUSCOUS_LEGUMES",
+      "dinner": "PT_FEB_SALADA_AVOCADO_TOMATE"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_FEB_TORRADA_MANTEIGA_AVELA",
+      "lunch": "PT_FEB_BOLINHOS_GRAO",
+      "dinner": "PT_FEB_SOPA_BATATA_ALHO_FRANCES"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_FEB_MEXIDO_LEGUMES",
+      "lunch": "PT_FEB_SOPA_TOMATE_OVO",
+      "dinner": "PT_FEB_OVO_COZIDO_SALADA"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_FEB_PAPAS_TRIGO_SARRACENO",
+      "lunch": "PT_FEB_SALTEADO_TOFU_BROCOLOS",
+      "dinner": "PT_FEB_TOFU_ASSADO_ESPECIARIAS"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_FEB_SMOOTHIE_BOWL_MANGA",
+      "lunch": "PT_FEB_RISOTO_COGUMELOS_TRUFA",
+      "dinner": "PT_FEB_SOPA_TOMATE_MANJERICO"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_FEB_AVEIA_COCO_ANANAS",
+      "lunch": "PT_FEB_ESTUFADO_LEGUMES_LENTILHAS",
+      "dinner": "PT_FEB_ESTUFADO_GRAO_SIMPLES"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_FEB_PANQUECAS_ABOBORA",
+      "lunch": "PT_FEB_SALADA_BETERRABA_NOZ",
+      "dinner": "PT_FEB_SALADA_FETA_AZEITONAS"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_FEB_TORRADA_QUEIJO_MEL",
+      "lunch": "PT_FEB_QUICHE_ESPINAFRES",
+      "dinner": "PT_FEB_SOPA_LEGUMES_VARIADOS"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_FEB_SMOOTHIE_FRAMBOESA",
+      "lunch": "PT_FEB_MASSA_ALHO_OLEO_VEG",
+      "dinner": "PT_FEB_TOFU_MEXIDO_SIMPLES"
+    }
+  ],
+  "3": [
+    {
+      "day": 1,
+      "breakfast": "PT_MAR_SMOOTHIE_KIWI",
+      "lunch": "PT_MAR_CARIL_LENTILHAS",
+      "dinner": "PT_MAR_SOPA_ALFACE_ERVILHAS"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_MAR_AVEIA_BANANA",
+      "lunch": "PT_MAR_SALADA_QUINOA_BROCOLOS",
+      "dinner": "PT_MAR_TOFU_GRELHADO_LEGUMES"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_MAR_TORRADA_ABACATE_SESAMO",
+      "lunch": "PT_MAR_MASSA_COGUMELOS_SOJA",
+      "dinner": "PT_MAR_SALADA_TOMATE_PEPINO"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_MAR_IOGURTE_GRANOLA_MACA",
+      "lunch": "PT_MAR_CHILI_FEIJAO_MILHO",
+      "dinner": "PT_MAR_CREME_CENOURA_COENTROS"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_MAR_PANQUECAS_MACA",
+      "lunch": "PT_MAR_ALMONDEGAS_LENTILHA",
+      "dinner": "PT_MAR_COGUMELOS_SALTEADOS_ALHO"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_MAR_SMOOTHIE_BOWL_VERMELHOS",
+      "lunch": "PT_MAR_RISOTO_ESPARGOS_ERVILHAS",
+      "dinner": "PT_MAR_SOPA_FEIJAO_VERDE_MASSA"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_MAR_PUDIM_CHIA_FRAMBOESA",
+      "lunch": "PT_MAR_ESTUFADO_GRAO_COUVE",
+      "dinner": "PT_MAR_CREME_BROCOLOS"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_MAR_TORRADA_AMENDOIM_MACA",
+      "lunch": "PT_MAR_HAMBURGUER_GRAO_SALADA",
+      "dinner": "PT_MAR_SALADA_RUSSA_VEG"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_MAR_OMELETE_TOFU_TOMATE",
+      "lunch": "PT_MAR_COUSCOUS_MEDITERRANEO",
+      "dinner": "PT_MAR_SOPA_LEGUMES_VARIADOS"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_MAR_PAPAS_MILHO_CANELA",
+      "lunch": "PT_MAR_LASANHA_ESPINAFRES",
+      "dinner": "PT_MAR_OMELETE_ERVAS_SALADA"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_MAR_SMOOTHIE_MANGA_LARANJA",
+      "lunch": "PT_MAR_SALADA_MACARRAO_PESTO",
+      "dinner": "PT_MAR_CREME_ABOBORA_SEMENTES"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_MAR_TACA_ACAI_COCO",
+      "lunch": "PT_MAR_ARROZ_FEIJAO_LEGUMES",
+      "dinner": "PT_MAR_GASPACHO_TOMATE"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_MAR_TORRADA_HUMUS_PEPINO",
+      "lunch": "PT_MAR_TORTILHA_BATATA_CEBOLA",
+      "dinner": "PT_MAR_SOPA_LENTILHAS_ESPINAFRES"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_MAR_MUESLI_PASSAS",
+      "lunch": "PT_MAR_QUICHE_COGUMELOS_ALHO",
+      "dinner": "PT_MAR_SALADA_GREGA_FETA"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_MAR_QUINOA_AMENDOAS",
+      "lunch": "PT_MAR_SALADA_LENTILHAS_ROMA",
+      "dinner": "PT_MAR_CREME_COUVE_FLOR"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_MAR_SMOOTHIE_MORANGO_BANANA",
+      "lunch": "PT_MAR_MASSA_TOMATE_MANJERICO",
+      "dinner": "PT_MAR_TOFU_SOJA_GENGIBRE"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_MAR_PANQUECAS_INTEGRAIS_MEL",
+      "lunch": "PT_MAR_GRATINADO_COUVE_FLOR",
+      "dinner": "PT_MAR_SOPA_GRAO_MASSA"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_MAR_PAPAS_SARRACENO_PERA",
+      "lunch": "PT_MAR_EMPADAO_SOJA",
+      "dinner": "PT_MAR_SALADA_ESPINAFRES_MACA"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_MAR_TORRADA_REQUEIJAO_DOCE",
+      "lunch": "PT_MAR_SALADA_FEIJAO_FRADE_PIMENTO",
+      "dinner": "PT_MAR_CREME_ERVILHAS_HORTELA"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_MAR_IOGURTE_GOJI",
+      "lunch": "PT_MAR_TOFU_BROAS_GRELOS",
+      "dinner": "PT_MAR_OVOS_TOMATE_SHAKSHUKA"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_MAR_SMOOTHIE_ANANAS_HORTELA",
+      "lunch": "PT_MAR_RISOTO_COGUMELOS_SELVAGENS",
+      "dinner": "PT_MAR_SOPA_MINESTRONE_MAR"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_MAR_TAPIOCA_BANANA",
+      "lunch": "PT_MAR_CARIL_VEGETAIS_GRAO",
+      "dinner": "PT_MAR_SALADA_BETERRABA_LARANJA"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_MAR_AVEIA_CHOCOLATE",
+      "lunch": "PT_MAR_CANELONES_ESPINAFRES_TOFU",
+      "dinner": "PT_MAR_CREME_COURGETTE"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_MAR_SMOOTHIE_BOWL_SPIRULINA",
+      "lunch": "PT_MAR_SALADA_GRAO_BETERRABA",
+      "dinner": "PT_MAR_PORTOBELLO_GRELHADO_SALADA"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_MAR_TORRADA_ABACATE_CHERRY",
+      "lunch": "PT_MAR_MASSA_ABOBORA_SALVIA",
+      "dinner": "PT_MAR_SOPA_TOMATE_MANJERICO"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_MAR_MUFFIN_MIRTILO",
+      "lunch": "PT_MAR_HAMBURGUER_FEIJAO_ARROZ",
+      "dinner": "PT_MAR_SALADA_ALFACE_MILHO"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_MAR_SMOOTHIE_PAPAIA_LIMA",
+      "lunch": "PT_MAR_ESTUFADO_LENTILHAS_CENOURA",
+      "dinner": "PT_MAR_CREME_ESPARGOS"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_MAR_PAPAS_ARROZ_COCO",
+      "lunch": "PT_MAR_SALADA_MASSA_TOFU",
+      "dinner": "PT_MAR_TOFU_MEXIDO_ESPINAFRES"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_MAR_TORRADA_MANTEIGA_AMENDOA",
+      "lunch": "PT_MAR_ARROZ_TOMATE_OVOS",
+      "dinner": "PT_MAR_SOPA_CEBOLA"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_MAR_TACA_IOGURTE_GIRASSOL",
+      "lunch": "PT_MAR_QUINOA_TOFU_AMENDOAS",
+      "dinner": "PT_MAR_SALADA_GRAO_COUVE_FLOR"
+    },
+    {
+      "day": 31,
+      "breakfast": "PT_MAR_SMOOTHIE_MELAO_GENGIBRE",
+      "lunch": "PT_MAR_PAELLA_VEGETAIS_MAR",
+      "dinner": "PT_MAR_CREME_LEGUMES_CROUTONS"
+    }
+  ],
+  "4": [
+    {
+      "day": 1,
+      "breakfast": "PT_APR_SMOOTHIE_MORANGO_CHIA",
+      "lunch": "PT_APR_RISOTO_ESPARGOS",
+      "dinner": "PT_APR_SOPA_ALFACE_HORTELA"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_APR_AVEIA_AMENDOA_MEL",
+      "lunch": "PT_APR_SALADA_QUINOA_GRAO",
+      "dinner": "PT_APR_TOFU_GRELHADO_VERDE"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_APR_TORRADA_ABACATE_OVO",
+      "lunch": "PT_APR_MASSA_PESTO_PINHOES",
+      "dinner": "PT_APR_SALADA_CAPRESE"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_APR_IOGURTE_GRANOLA_TROPICAL",
+      "lunch": "PT_APR_CHILI_LENTILHAS_DOCE",
+      "dinner": "PT_APR_CREME_CENOURA_GENGIBRE"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_APR_PANQUECAS_ESPELTA",
+      "lunch": "PT_APR_ALMONDEGAS_BERINJELA",
+      "dinner": "PT_APR_COGUMELOS_SALTEADOS"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_APR_SMOOTHIE_BOWL_SPIRULINA",
+      "lunch": "PT_APR_TORTA_ESPINAFRES",
+      "dinner": "PT_APR_SOPA_FEIJAO_VERDE"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_APR_PUDIM_CHIA_KIWI",
+      "lunch": "PT_APR_ESTUFADO_FEIJAO_BRANCO",
+      "dinner": "PT_APR_CREME_BROCOLOS_QUEIJO"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_APR_TORRADA_AMENDOIM_MIRTILO",
+      "lunch": "PT_APR_HAMBURGUER_GRAO_BATATA",
+      "dinner": "PT_APR_SALADA_RUSSA_VEG"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_APR_MEXIDO_TOFU_TOMATE",
+      "lunch": "PT_APR_COUSCOUS_LEGUMES",
+      "dinner": "PT_APR_SOPA_LEGUMES_EPOCA"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_APR_PAPAS_MILHO_COCO",
+      "lunch": "PT_APR_LASANHA_ABOBORINHA",
+      "dinner": "PT_APR_OMELETE_ESPINAFRES"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_APR_SMOOTHIE_BANANA_ESPINAFRE",
+      "lunch": "PT_APR_SALADA_MACARRAO_TOMATE",
+      "dinner": "PT_APR_CREME_ABOBORA_SEMENTES"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_APR_TACA_ACAI_CANHAMO",
+      "lunch": "PT_APR_ARROZ_FEIJAO_VAPOR",
+      "dinner": "PT_APR_GASPACHO_MORANGO"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_APR_TORRADA_HUMUS_PIMENTOS",
+      "lunch": "PT_APR_TORTILHA_BATATA_ALHO",
+      "dinner": "PT_APR_SOPA_LENTILHAS_VERMELHAS"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_APR_MUESLI_AVELA",
+      "lunch": "PT_APR_QUICHE_LEGUMES",
+      "dinner": "PT_APR_SALADA_GREGA_PEPINO"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_APR_QUINOA_MACA",
+      "lunch": "PT_APR_SALADA_LENTILHAS_MACA",
+      "dinner": "PT_APR_CREME_COUVE_FLOR"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_APR_SMOOTHIE_MANGA_HORTELA",
+      "lunch": "PT_APR_MASSA_TOMATE_AZEITONAS",
+      "dinner": "PT_APR_TOFU_LIMAO"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_APR_PANQUECAS_BANANA_NOZ",
+      "lunch": "PT_APR_GRATINADO_COUVE_FLOR",
+      "dinner": "PT_APR_SOPA_GRAO_ESPINAFRES"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_APR_PAPAS_SARRACENO_MORANGO",
+      "lunch": "PT_APR_EMPADAO_LENTILHAS",
+      "dinner": "PT_APR_SALADA_RUCULA_PERA"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_APR_TORRADA_QUEIJO_MEL",
+      "lunch": "PT_APR_SALADA_FEIJAO_FRADE",
+      "dinner": "PT_APR_CREME_ERVILHAS"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_APR_IOGURTE_LINHACA_PAPAIA",
+      "lunch": "PT_APR_TOFU_ERVAS_ARROZ",
+      "dinner": "PT_APR_OVOS_TOMATE_SHAKSHUKA"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_APR_SMOOTHIE_SILVESTRES",
+      "lunch": "PT_APR_RISOTO_ABOBORA_SALVIA",
+      "dinner": "PT_APR_SOPA_MINESTRONE_LEVE"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_APR_TAPIOCA_QUEIJO_TOMATE",
+      "lunch": "PT_APR_CARIL_GRAO_ESPINAFRES",
+      "dinner": "PT_APR_SALADA_BETERRABA_LARANJA"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_APR_AVEIA_TAMARAS",
+      "lunch": "PT_APR_CANELONES_TOFU",
+      "dinner": "PT_APR_CREME_COURGETTE_MANJERICO"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_APR_SMOOTHIE_BOWL_ABACATE",
+      "lunch": "PT_APR_SALADA_QUINOA_MANGA",
+      "dinner": "PT_APR_PORTOBELLO_GRELHADO"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_APR_TORRADA_COGUMELOS",
+      "lunch": "PT_APR_MASSA_BROCOLOS_ALHO",
+      "dinner": "PT_APR_SOPA_TOMATE_ARROZ"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_APR_MUFFIN_AVEIA_MACA",
+      "lunch": "PT_APR_HAMBURGUER_LENTILHAS_SALADA",
+      "dinner": "PT_APR_SALADA_ALFACE_MILHO_ABACATE"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_APR_SMOOTHIE_PERA_CANELA",
+      "lunch": "PT_APR_ESTUFADO_ERVILHAS_OVOS",
+      "dinner": "PT_APR_CREME_ESPARGOS_VERDES"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_APR_PAPAS_CEVADA_MEL",
+      "lunch": "PT_APR_SALADA_MACARRAO_MILHO",
+      "dinner": "PT_APR_TOFU_MEXIDO_ERVAS"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_APR_TORRADA_CAJU_BANANA",
+      "lunch": "PT_APR_ARROZ_TOMATE_TOFU",
+      "dinner": "PT_APR_SOPA_CEBOLA"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_APR_TACA_IOGURTE_ABOBORA",
+      "lunch": "PT_APR_QUINOA_LEGUMES_TAHINI",
+      "dinner": "PT_APR_SALADA_GRAO_CHERRY"
+    }
+  ],
+  "5": [
+    {
+      "day": 1,
+      "breakfast": "PT_MAY_SMOOTHIE_ANANAS_COCO",
+      "lunch": "PT_MAY_CARIL_GRAO_ESPINAFRES",
+      "dinner": "PT_MAY_SOPA_ALFACE_HORTELA_LEVE"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_MAY_AVEIA_MORANGO",
+      "lunch": "PT_MAY_SALADA_QUINOA_TROPICAL",
+      "dinner": "PT_MAY_TOFU_GRELHADO_SALADA_VERDE"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_MAY_TORRADA_ABACATE_RABANETE",
+      "lunch": "PT_MAY_MASSA_PRIMAVERA",
+      "dinner": "PT_MAY_GASPACHO_TOMATE_PEPINO"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_MAY_PUDIM_CHIA_ANANAS",
+      "lunch": "PT_MAY_CHILI_VEGETARIANO_LEVE",
+      "dinner": "PT_MAY_SALADA_TOMATE_MOZZARELLA_BASILICO"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_MAY_PANQUECAS_MIRTILO_LIMAO",
+      "lunch": "PT_MAY_RISOTO_COGUMELOS_ERVAS",
+      "dinner": "PT_MAY_CREME_CENOURA_GENGIBRE_LEVE"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_MAY_SMOOTHIE_BOWL_VERDE",
+      "lunch": "PT_MAY_SALADA_LENTILHAS_FETA",
+      "dinner": "PT_MAY_COGUMELOS_SALTEADOS_ERVAS_FRESCAS"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_MAY_TACA_IOGURTE_KIWI",
+      "lunch": "PT_MAY_TORTILHA_ESPINAFRES_COGUMELOS",
+      "dinner": "PT_MAY_SOPA_FEIJAO_VERDE_MASSA_LEVE"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_MAY_TORRADA_MANTEIGA_AMENDOIM_MORANGO",
+      "lunch": "PT_MAY_ARROZ_ERVAS_TOFU_GRELHADO",
+      "dinner": "PT_MAY_SALADA_RUCULA_MORANGO_FETA"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_MAY_MEXIDO_TOFU_TOMATE_CHERRY",
+      "lunch": "PT_MAY_SALADA_GRAO_PIMENTOS",
+      "dinner": "PT_MAY_CREME_BROCOLOS_LEVE"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_MAY_AVEIA_COCO_MANGA",
+      "lunch": "PT_MAY_COUSCOUS_VEGETAIS_GRELHADOS",
+      "dinner": "PT_MAY_OMELETE_ESPINAFRES_QUEIJO"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_MAY_SMOOTHIE_FRAMBOESA_BANANA",
+      "lunch": "PT_MAY_LASANHA_VEGETAL_LEVE",
+      "dinner": "PT_MAY_SOPA_LEGUMES_DA_HORTA"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_MAY_PANQUECAS_AVEIA_MEL",
+      "lunch": "PT_MAY_SALADA_MACARRAO_TOMATE_BASILICO",
+      "dinner": "PT_MAY_SALADA_RUSSA_VEGETARIANA"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_MAY_TORRADA_HUMUS_TOMATE",
+      "lunch": "PT_MAY_ESTUFADO_LENTILHAS_VERMELHAS",
+      "dinner": "PT_MAY_CREME_ABOBORA_SEMENTES_GIRASSOL"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_MAY_MUESLI_FRUTOS_VERMELHOS",
+      "lunch": "PT_MAY_HAMBURGUER_FEIJAO_SALADA",
+      "dinner": "PT_MAY_TOFU_MEXIDO_LEGUMES"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_MAY_PAPA_QUINOA_MACA",
+      "lunch": "PT_MAY_SALADA_QUINOA_AVOCADO",
+      "dinner": "PT_MAY_SOPA_LENTILHAS_VERMELHAS_COENTROS"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_MAY_SMOOTHIE_MANGA_LIMA",
+      "lunch": "PT_MAY_ARROZ_TOMATE_PANADOS_VEG",
+      "dinner": "PT_MAY_SALADA_GREGA_SIMPLES"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_MAY_TORRADA_ABACATE_OVO_ESCALFADO",
+      "lunch": "PT_MAY_QUICHE_ALHO_FRANCES_COGUMELOS",
+      "dinner": "PT_MAY_CREME_COUVE_FLOR_ALHO_FRANCES"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_MAY_TACA_ACAI_GRANOLA",
+      "lunch": "PT_MAY_SALADA_FEIJAO_FRADE_ATUM_VEG",
+      "dinner": "PT_MAY_WRAP_TOFU_SALADA"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_MAY_PAPAS_MILHO_DOCE",
+      "lunch": "PT_MAY_MASSA_PESTO_TOMATE_CHERRY",
+      "dinner": "PT_MAY_SOPA_GRAO_ESPINAFRES_LEVE"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_MAY_SMOOTHIE_BOWL_MORANGO",
+      "lunch": "PT_MAY_GRATINADO_LEGUMES_PRIMAVERA",
+      "dinner": "PT_MAY_SALADA_ESPINAFRE_MACA_NOZ"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_MAY_AVEIA_ANANAS_HORTELA",
+      "lunch": "PT_MAY_SALADA_LENTILHAS_MACA_NOZ",
+      "dinner": "PT_MAY_CREME_ERVILHAS_HORTELA_FRESCA"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_MAY_PANQUECAS_BANANA_CANELA",
+      "lunch": "PT_MAY_RISOTO_ABOBORA_NOZ_MOSCADA",
+      "dinner": "PT_MAY_OVOS_ESTRELADOS_TOMATE"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_MAY_TORRADA_QUEIJO_FRESCO_TOMATE",
+      "lunch": "PT_MAY_CANELONES_RICOTA_ESPINAFRES",
+      "dinner": "PT_MAY_SOPA_MINESTRONE_LEVE"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_MAY_IOGURTE_GRANOLA_MIRTILO",
+      "lunch": "PT_MAY_SALADA_QUINOA_MANGA_AMENDOA",
+      "dinner": "PT_MAY_SALADA_BETERRABA_LARANJA_NOZ"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_MAY_SMOOTHIE_ESPINAFRE_MACA",
+      "lunch": "PT_MAY_CARIL_VEGETAIS_COCO_LEVE",
+      "dinner": "PT_MAY_CREME_COURGETTE_COENTROS"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_MAY_PUDIM_CHIA_MANGA_COCO",
+      "lunch": "PT_MAY_SALTEADO_TOFU_LEGUMES_CROCANTES",
+      "dinner": "PT_MAY_PORTOBELLO_GRELHADO_ERVAS"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_MAY_TORRADA_ABACATE_PIMENTAO",
+      "lunch": "PT_MAY_SOPA_TOMATE_OVO_ESCALFADO",
+      "dinner": "PT_MAY_SOPA_TOMATE_ARROZ_LEVE"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_MAY_AVEIA_CHOCOLATE_MORANGO",
+      "lunch": "PT_MAY_SALADA_MACARRAO_PESTO_RUCULA",
+      "dinner": "PT_MAY_SALADA_ALFACE_MILHO_ABACATE"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_MAY_SMOOTHIE_SILVESTRE_LINHACA",
+      "lunch": "PT_MAY_EMPADAO_VEGETARIANO_LENTILHAS",
+      "dinner": "PT_MAY_CREME_ESPARGOS_VERDES_LEVE"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_MAY_PANQUECAS_INTEGRAIS_FRUTA",
+      "lunch": "PT_MAY_PAELLA_VEGETARIANA_PRIMAVERA",
+      "dinner": "PT_MAY_TOFU_SALTEADO_SOJA_GENGIBRE"
+    },
+    {
+      "day": 31,
+      "breakfast": "PT_MAY_TACA_IOGURTE_MEL_NOZES",
+      "lunch": "PT_MAY_SALADA_GRAO_MEDITERRANICA",
+      "dinner": "PT_MAY_SOPA_CEBOLA_LEVE"
+    }
+  ],
+  "6": [
+    {
+      "day": 1,
+      "breakfast": "PT_JUN_WAFFLE_TRIGO_SARRACENO",
+      "lunch": "PT_JUN_FALAFEL_FORNO_MOLHO_TAHINI",
+      "dinner": "PT_JUN_CALDO_VERDE_TRADICIONAL_VEG"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_JUN_PANQUECA_ESPINAFRE_COGUMELO",
+      "lunch": "PT_JUN_CHILI_VEGANO_SIN_CARNE",
+      "dinner": "PT_JUN_SOPA_CREME_ALHO_FRANCES_BATATA"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_JUN_BATIDO_CELESTE_SPIRULINA",
+      "lunch": "PT_JUN_ESPARGUETE_CURGETE_PESTO_AVELA",
+      "dinner": "PT_JUN_CANJA_COGUMELOS_SHIITAKE_MASSA"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_JUN_CREME_AVEIA_FORNO_NOZES",
+      "lunch": "PT_JUN_FEIJOADA_COGUMELOS_PLEUROTUS",
+      "dinner": "PT_JUN_SOPA_FEIJAO_MANTEIGA_REPOLHO"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_JUN_TORRADA_TAPENADE_TOMATE",
+      "lunch": "PT_JUN_ESTUFADO_LENTILHAS_ABOBORA_MANTEIGA",
+      "dinner": "PT_JUN_CREME_BROCOLOS_AMENDOA_TOSTADA"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_JUN_GRANOLA_SALGADA_IOGURTE",
+      "lunch": "PT_JUN_STIR_FRY_TOFU_BROCOLOS_SESAMO",
+      "dinner": "PT_JUN_SOPA_TOMATE_ALENTEJANA_OVO"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_JUN_SUMO_PRENSADO_CENOURA_TURMERIC",
+      "lunch": "PT_JUN_ALHO_FRANCES_RECHEADO_QUINOA",
+      "dinner": "PT_JUN_CREME_ERVIHAS_XUXU_ERVAS"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_JUN_MACA_ASSADA_RECHEADA_CHIA",
+      "lunch": "PT_JUN_SALADA_QUENTE_BATATA_DOCE_LENTILHAS",
+      "dinner": "PT_JUN_SOPA_MINESTRONE_FEIJAO_FRADE"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_JUN_PUDIM_LINHACA_LEITE_AVELA",
+      "lunch": "PT_JUN_MASSA_ORZO_TOMATE_FORNO",
+      "dinner": "PT_JUN_CREME_ABOBORA_ASSADA_GENGIBRE"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_JUN_GALETTE_FRANQUESA_MORANGO",
+      "lunch": "PT_JUN_CURRY_RAMEN_TOFU_FRESCO",
+      "dinner": "PT_JUN_SOPA_PEDRA_VEGETARIANA_RIFADO"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_JUN_SCOTTISH_OATS_SALGADAS",
+      "lunch": "PT_JUN_GNOCCHI_ABOBORA_SALVIA_AZEITE",
+      "dinner": "PT_JUN_CREME_CENOURA_SOUCHE_COENTROS"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_JUN_MUFFIN_AVEIA_CENOURA_NOZ",
+      "lunch": "PT_JUN_XAREM_ALGARVIO_COGUMELOS",
+      "dinner": "PT_JUN_SOPA_LENTILHAS_VERMELHAS_COMINHO"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_JUN_TORRADA_RICOTA_RABANETE_ASSADO",
+      "lunch": "PT_JUN_BURRITO_BOWL_ARROZ_FEIJAO_PRETO",
+      "dinner": "PT_JUN_CREME_COUVE_FLOR_ALHO_ASSADO"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_JUN_BATIDO_PROTEICO_ERVIHA_CACAU",
+      "lunch": "PT_JUN_LASANHA_LENTILHAS_FOLHAS_COUVE",
+      "dinner": "PT_JUN_SOPA_JULIANA_LEGUMES_VARIADOS"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_JUN_CREPE_AVEIA_COMPOTA_ABOBORA",
+      "lunch": "PT_JUN_COUSCOUS_ISRAELITA_VEGETAIS_FORNO",
+      "dinner": "PT_JUN_CREME_XUXU_FOLHAS_NABICA"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_JUN_TACA_QUINOA_INFLADA_FRUTOS",
+      "lunch": "PT_JUN_TABULE_TRIGO_SARRACENO_HORTELA",
+      "dinner": "PT_JUN_SOPA_GRAO_BICO_COUVE_LOMBARDA"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_JUN_PANQUECA_CHARUTO_REQUEIJAO",
+      "lunch": "PT_JUN_HAMBURGUER_FEIJAO_FRADE_ARROZ_ESPREGUIADO",
+      "dinner": "PT_JUN_CREME_BETERRABA_QUENTE_NOZ_MOSCADA"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_JUN_BARRINHA_AVEIA_TARTARO_FRUTA",
+      "lunch": "PT_JUN_QUICHE_BATATA_DOCE_ESPINAFRE",
+      "dinner": "PT_JUN_SOPA_CEBOLA_FRANCESA_TORRADA"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_JUN_SCONES_INTEGRAIS_PASSO_OESTE",
+      "lunch": "PT_JUN_TOFU_BROA_FORNO_COENTROS",
+      "dinner": "PT_JUN_CREME_CORACAO_ALFACE_ERVIHAS"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_JUN_BATIDO_VERDE_COUVE_GALEGA_MACA",
+      "lunch": "PT_JUN_SALADA_MACARRAO_TRIGO_INTEGRAL_PICLES",
+      "dinner": "PT_JUN_SOPA_BATATA_DOCE_ESPINAFFRE"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_JUN_FOCACCIA_ALECRIM_TOMATE_CHERRY",
+      "lunch": "PT_JUN_ESTUFADO_GRAO_BICO_ESPINAFRES_COMINHOS",
+      "dinner": "PT_JUN_CREME_AIPO_MAC_VERDE_QUENTE"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_JUN_PUDIM_TAPIOCA_LEITE_COCO",
+      "lunch": "PT_JUN_PAELLA_FALSA_TRIGO_SARRACENO",
+      "dinner": "PT_JUN_SOPA_TRIGO_SARRACENO_LEGUMES"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_JUN_TORRADA_MANTEIGA_SEMENTES_ABOBORA",
+      "lunch": "PT_JUN_SALTEADO_SEITAN_MOLHO_CERVEJA",
+      "dinner": "PT_JUN_CREME_NABIÇAS_TRADICIONAL_MINHO"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_JUN_PAPA_PAINCO_CREMOSA_CANELA",
+      "lunch": "PT_JUN_KEDGEREE_VEGANO_ARROZ_CURCUMA",
+      "dinner": "PT_JUN_SOPA_MISO_TOFU_ALGAS_WAKAME"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_JUN_CRUMPETS_AVEIA_GELEIA_FRUTA",
+      "lunch": "PT_JUN_WRAP_QUENTE_FEIJAO_ENCARNADO",
+      "dinner": "PT_JUN_CREME_REPOLHO_BRANCO_GRAO"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_JUN_BOLO_CHAVENA_CACAO_MICROONDAS",
+      "lunch": "PT_JUN_TACOS_JACKFRUIT_MOLHO_BARBECUE",
+      "dinner": "PT_JUN_SOPA_AZEDA_LENTILHAS_LIMON"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_JUN_TORRADA_PATE_LENTILHAS_ERVAS",
+      "lunch": "PT_JUN_RISOTO_BETERRABA_CREMOSO",
+      "dinner": "PT_JUN_CREME_ABOBORINHA_ALHO_PORRO"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_JUN_BATIDO_GOIABA_POLPA_COCO",
+      "lunch": "PT_JUN_SALADA_LENTILHAS_BELUGA_NURZ_MOSTARDA",
+      "dinner": "PT_JUN_SOPA_RAIZES_PASTINACA_CENOURA"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_JUN_MINI_QUICHE_SEM_MASSA_LEGUMES",
+      "lunch": "PT_JUN_MAC_AND_CHEESE_VEGAN_ABOBORA",
+      "dinner": "PT_JUN_CREME_FOLHAS_KALE_BATATA_DOCE"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_JUN_BOLACHAS_AVEIA_BANANA_3_ING",
+      "lunch": "PT_JUN_EMPADAO_SOJA_TEXTURIZADA_BATATA",
+      "dinner": "PT_JUN_SOPA_BARRANQUENHA_LEGUMES_PIMENTA"
+    }
+  ],
+  "7": [
+    {
+      "day": 1,
+      "breakfast": "PT_JUL_SMOOTHIE_NECTARINA_GOJI",
+      "lunch": "PT_JUL_SALADA_FEIJAO_FRADE_PIMENTO_COENTROS",
+      "dinner": "PT_JUL_GASPACHO_TOMATE_FRIO_CEBOLINHO"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_JUL_AVEIA_ADORMECIDA_AMORA_SILVESTRE",
+      "lunch": "PT_JUL_SALADA_QUINOA_MANGA_CHILI",
+      "dinner": "PT_JUL_TOFU_GRELHADO_SALADA_PEPINO_MENTA"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_JUL_TORRADA_ABACATE_GELADO_LIMA",
+      "lunch": "PT_JUL_MASSA_FRESCA_TOMATE_CHERRY_MANJERICAO",
+      "dinner": "PT_JUL_CREME_FRIO_MELAO_REFRESCANTE"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_JUL_PUDIM_CHIA_FRAMBOESA_HORTELA",
+      "lunch": "PT_JUL_BURRITO_VEG_FEIJAO_FRITO_PIMENTOS",
+      "dinner": "PT_JUL_SALADA_MELANCIA_RUCULA_QUEIJO_FETA"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_JUL_PANQUECAS_MIRTILO_LIMAO",
+      "lunch": "PT_JUL_RISOTO_HORTELA_LIMAO_JUL",
+      "dinner": "PT_JUL_CREME_CENOURA_FRESCO_SUMO_LIMAO"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_JUL_SMOOTHIE_BOWL_FRUTOS_ROXOS",
+      "lunch": "PT_JUL_SALADA_LENTILHAS_ABACAXI_RUCULA",
+      "dinner": "PT_JUL_COGUMELOS_SALTEADOS_ALHO_FRESCO"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_JUL_TACA_IOGURTE_GRENADA",
+      "lunch": "PT_JUL_TORTILHA_BATATA_CURGETE_CEBOLA",
+      "dinner": "PT_JUL_SOPA_FEIJAO_VERDE_AZEITE_ALHO"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_JUL_TORRADA_FETA_MELANCIA",
+      "lunch": "PT_JUL_ARROZ_COENTROS_TOFU_FUMADO",
+      "dinner": "PT_JUL_SALADA_RUCULA_AMEIXA_AMENDOA"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_JUL_MEXIDO_TOFU_TOMATE_PIMENTO",
+      "lunch": "PT_JUL_SALADA_GRAO_PEPINELLA_RABANETE",
+      "dinner": "PT_JUL_CREME_FRIO_ERVILHAS_MENT"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_JUL_AVEIA_FRIA_MELAO_ALBICOQUE",
+      "lunch": "PT_JUL_COUSCOUS_JULHO_LEGUMES_GRELHADOS",
+      "dinner": "PT_JUL_OMELETE_TOMATE_CHERRY_FRESCO"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_JUL_SMOOTHIE_CEREJA_CACAU",
+      "lunch": "PT_JUL_LASANHA_FRIA_CURGETE_TOMATE",
+      "dinner": "PT_JUL_SOPA_LEGUMES_JULHO_MANJERICAO"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_JUL_PANQUECAS_COCO_MANGA_FRESCA",
+      "lunch": "PT_JUL_SALADA_MACARRAO_AZEITONA_CAPRESE",
+      "dinner": "PT_JUL_SALADA_COLESLAW_IOGURTE_HORTELA"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_JUL_TORRADA_HUMUS_CURGETE",
+      "lunch": "PT_JUL_ESTUFADO_GRAO_TOMATE_MANJERICAO",
+      "dinner": "PT_JUL_CREME_ABOBORA_LEVE_SOUCHE"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_JUL_MUESLI_TROPICAL_ANANAS",
+      "lunch": "PT_JUL_HAMBURGUER_LENTILHAS_SALADA_VERAO",
+      "dinner": "PT_JUL_TOFU_MEXIDO_TOMATE_CHERRY_MANJERICAO"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_JUL_PAPA_ARROZ_MARACUJA",
+      "lunch": "PT_JUL_SALADA_QUINOA_CEREJA_FETA",
+      "dinner": "PT_JUL_SOPA_LENTILHAS_VERAO_RASPAS_LIMAO"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_JUL_SMOOTHIE_PAPAIA_MANJERICAO",
+      "lunch": "PT_JUL_ARROZ_TOMATE_MALANDRINHO_COENTROS",
+      "dinner": "PT_JUL_SALADA_TZATZIKI_PEPINO_MENTA_AZEITE"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_JUL_TORRADA_ABACATE_SOUCHE_ABOBORA",
+      "lunch": "PT_JUL_QUICHE_CURGETE_TOMATE_CHERRY",
+      "dinner": "PT_JUL_CREME_COUVE_FLOR_FRIO_FRANCES"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_JUL_TACA_ACAI_FRAMBOESA_GRANOLA",
+      "lunch": "PT_JUL_SALADA_PASTA_GRAO_AZEITONA",
+      "dinner": "PT_JUL_WRAP_HUMUS_TOMATE_PEPINO_FRESCO"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_JUL_PAPAS_AVEIA_FRIAS_HORTELA_CHIA",
+      "lunch": "PT_JUL_MASSA_PESTO_RUCULA_TOMATE_SECO",
+      "dinner": "PT_JUL_SOPA_GRAO_CURGETE_FOLHAS_MANJERICAO"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_JUL_SMOOTHIE_BOWL_MELAO_CELESTE",
+      "lunch": "PT_JUL_GRATINADO_BERINJELA_TOMATE_FRESCO",
+      "dinner": "PT_JUL_SALADA_ESPINAFRE_MANGA_PINDAS"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_JUL_AVEIA_NOITE_PESSEGO_AMENDOA",
+      "lunch": "PT_JUL_SALADA_LENTILHAS_AMEIXA_AVOCADO",
+      "dinner": "PT_JUL_SOPA_TOMATE_PEPINO_SOPA_FRESCA"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_JUL_PANQUECAS_INTEGRAIS_AMEIXA_FRESCA",
+      "lunch": "PT_JUL_RISOTO_TOMATE_CONCHAS_BASILICO",
+      "dinner": "PT_JUL_OVOS_ESCALFADOS_MOLHO_TOMATE_JULHO"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_JUL_TORRADA_RICOTA_FIGO_MEL",
+      "lunch": "PT_JUL_CANELONES_VEGAN_CURGETE",
+      "dinner": "PT_JUL_SOPA_MINESTRONE_JULHO_LEVE"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_JUL_IOGURTE_GRANOLA_CEREJA",
+      "lunch": "PT_JUL_SALADA_QUINOA_MELANCIA_HORTELA",
+      "dinner": "PT_JUL_SALADA_BETERRABA_LARANJA_NOZES_JUL"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_JUL_SMOOTHIE_VERDE_COUVE_MELANCIA",
+      "lunch": "PT_JUL_CARIL_ALBICOQUE_GRAO_BICO",
+      "dinner": "PT_JUL_CREME_CURGETE_COENTROS_HORTELA"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_JUL_PUDIM_CHIA_PESSEGO_CARECA",
+      "lunch": "PT_JUL_SALTEADO_TOFU_MILHO_DOCE",
+      "dinner": "PT_JUL_PORTOBELLO_GRELHADO_TOMATE_MANJERICAO"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_JUL_TORRADA_MANTEIGA_AMENDOIM_FRAMBOESA",
+      "lunch": "PT_JUL_GAZPACHO_ALGARVIO_PIMENTOS_PEPINO",
+      "dinner": "PT_JUL_SOPA_ALHO_FRANCES_CURGETE_CREME_LEVE"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_JUL_AVEIA_CHOCOLATE_NEGRO_AMORA",
+      "lunch": "PT_JUL_SALADA_MACARRAO_CAPRESE_JULHO",
+      "dinner": "PT_JUL_SALADA_ALFACE_MILHO_AVOCADO_FRESCO"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_JUL_SMOOTHIE_UVA_PRETA_FRAMBOESA",
+      "lunch": "PT_JUL_EMPADAO_BATATA_DOCE_LENTILHAS_VERMELHAS",
+      "dinner": "PT_JUL_CREME_ESPARGOS_FRIO_FOLHAS_MENTA"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_JUL_PANQUECAS_AVEIA_SOUCHE_LINHACA",
+      "lunch": "PT_JUL_PAELLA_VEGETARIANA_VERAO_JULHO",
+      "dinner": "PT_JUL_TOFU_SALTEADO_MANGA_PIMENTOS_DOCES"
+    },
+    {
+      "day": 31,
+      "breakfast": "PT_JUL_TACA_IOGURTE_FRUTOS_SILVESTRES",
+      "lunch": "PT_JUL_SALADA_GRAO_MANGA_RUCULA",
+      "dinner": "PT_JUL_SOPA_JULIANA_REPOLHO_CENOURA"
+    }
+  ],
+  "8": [
+    {
+      "day": 1,
+      "breakfast": "PT_AGO_PANQUECA_MILHO_DOCE",
+      "lunch": "PT_AGO_CEVICHE_PALMITO_MANGA_COENTROS",
+      "dinner": "PT_AGO_WRAP_QUENTE_FEIJAO_ENCARNADO"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_AGO_OVERNIGHT_TROPICAL_COCO_ANANAS",
+      "lunch": "PT_AGO_TABULE_BULGUR_HORTELA_GRAO",
+      "dinner": "PT_AGO_BRUSCHETTA_TAPENADE_TOMATE_SECO"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_AGO_TORRADA_SMUSH_ERVIHA_HORTELA",
+      "lunch": "PT_AGO_ESPETADAS_TOFU_FUMADO_PIMENTON",
+      "dinner": "PT_AGO_SALADA_QUENTE_BATATA_DOCE_LENTILHA"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_AGO_PUDIM_CHIA_MELOA_GENGIBRE",
+      "lunch": "PT_AGO_SALADA_CROCANTE_REPOLHO_AMENDOIM",
+      "dinner": "PT_AGO_TORTILHA_ESPINAFRES_BATATA_DOCE_FORNO"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_AGO_BOLO_CANECA_ALFARROBA_NOZ",
+      "lunch": "PT_AGO_BURRITO_FRIO_HUMUS_ALFAFA",
+      "dinner": "PT_AGO_ESPARGUETE_CURGETE_PESTO_AVELA"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_AGO_WAFFLE_AVEIA_COMPOTA_FIGO",
+      "lunch": "PT_AGO_TACOS_JACKFRUIT_BARBECUE_MILHO",
+      "dinner": "PT_AGO_TOFU_GRELHADO_SOJA_GENGIBRE"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_AGO_TACA_AÇAI_RODOLES_BANANA_GRANOLA",
+      "lunch": "PT_AGO_NOODLES_ARROZ_FRIOS_SESAMO_LIMA",
+      "dinner": "PT_AGO_MASSA_ORZO_TOMATE_FORNO_MANJERICAO"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_AGO_PÃO_FRIGIDEIRA_RAPIDO_SÉSAMO",
+      "lunch": "PT_AGO_FEIJOADA_COGUMELOS_PLEUROTUS",
+      "dinner": "PT_AGO_RAMEN_CARIL_CALDO_LEGUMES_TOFU"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_AGO_BATIDO_ENERGIA_PAPAIA_AVEIA",
+      "lunch": "PT_AGO_STIR_FRY_SEITAN_BROCOLOS_ALHO",
+      "dinner": "PT_AGO_CARPACCIO_CURGETE_LIMAO_PINHOES"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_AGO_TORRADA_PATE_AZEVITONA_VERDE",
+      "lunch": "PT_AGO_SALADA_QUINOA_VERMELHA_EDAMAME",
+      "dinner": "PT_AGO_SALADA_FEIJAO_MANTEIGA_TOMATE_CHERRY"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_AGO_CREPE_POLVILHADO_CANELA_MACA",
+      "lunch": "PT_AGO_CHILI_VEGANO_TRES_FEIJOES",
+      "dinner": "PT_AGO_OVO_ESCALFADO_ESTUFADO_TOMATE_ALHO"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_AGO_IOGURTE_COCO_BAGAS_GOJI_CRUNCH",
+      "lunch": "PT_AGO_MAC_AND_CHEESE_ABOBORA_CAJU",
+      "dinner": "PT_AGO_SALADA_FRESCA_BELDROEGAS_QUINOA"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_AGO_MUFFIN_SALGADO_GRAO_LEGUMES",
+      "lunch": "PT_AGO_KEDGEREE_VEGANO_ARROZ_CURCUMA",
+      "dinner": "PT_AGO_TACOS_FALAFEL_ESMAGADO_PICO_GALLO"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_AGO_SMOOTHIE_VERDE_ESPINAFRE_MANGA",
+      "lunch": "PT_AGO_XAREM_ALGARVIO_COGUMELOS_SALTEADOS",
+      "dinner": "PT_AGO_SALADA_LENTILHAS_VERDES_MELOA_FETA"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_AGO_TORRADA_RICOTA_AMIXA_FRESCA",
+      "lunch": "PT_AGO_LASANHA_LENTILHAS_FOLHAS_COUVE",
+      "dinner": "PT_AGO_SALADA_FUSILLI_TOMATE_SECO_RUCULA"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_AGO_TACA_QUINOA_DOCE_LEITE_COCO",
+      "lunch": "PT_AGO_GNOCCHI_BATATA_SALVIA_AZEITE",
+      "dinner": "PT_AGO_TARTE_FOLHADA_TOMATE_MANJERICAO"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_AGO_SCOTTISH_PORRIDGE_SALGADA_AZEITE",
+      "lunch": "PT_AGO_FALAFEL_FORNO_MOLHO_TAHINI",
+      "dinner": "PT_AGO_SALADA_MACARRAO_FRIO_TORTILHA_AZEITE"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_AGO_BATIDO_CACAU_PURO_MANTEIGA_AMENDOIM",
+      "lunch": "PT_AGO_COUSCOUS_ISRAELITA_VEGETAIS_FORNO",
+      "dinner": "PT_AGO_WRAPS_FOLHA_COUVE_LENTILHAS_CENOURA"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_AGO_GALETTE_RUSTICA_MORANGO_MANJERICAO",
+      "lunch": "PT_AGO_HAMBURGUER_FEIJAO_FRADE_ARROZ",
+      "dinner": "PT_AGO_SALADA_TRIGO_SARRACENO_NISSARDA_VEG"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_AGO_TORRADA_GELEIA_PIMENTO_QUEIJO_VEG",
+      "lunch": "PT_AGO_POLENTA_FORNO_MOLHO_FUNGHI",
+      "dinner": "PT_AGO_PAELLA_VERAO_ALCACHOFRA_PIMENTOS"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_AGO_BARRINHA_CRUDA_TAMARA_AVELA",
+      "lunch": "PT_AGO_SALADA_LENTILHAS_BELUGA_NOZ_MOSTARDA",
+      "dinner": "PT_AGO_CANELONES_FRIOS_PEPINO_CREME_CAJU"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_AGO_SUMO_PRENSADO_MELANCIA_LIMA",
+      "lunch": "PT_AGO_TABULE_TRIGO_SARRACENO_PEPINELLA",
+      "dinner": "PT_AGO_SALADA_QUINOA_ABACATE_MILHO_DOCE"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_AGO_PANQUECA_TRIGO_SARRACENO_FRUTOS",
+      "lunch": "PT_AGO_ESTUFADO_LENTILHAS_ABOBORA_MANTEIGA",
+      "dinner": "PT_AGO_SALADA_FEIJAO_MANTEIGA_PESSEGO_RUCULA"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_AGO_SCONES_AVEIA_PASSA_UVA",
+      "lunch": "PT_AGO_QUICHE_BATATA_DOCE_ESPINAFRE_TOFU",
+      "dinner": "PT_AGO_SALADA_QUINOA_VERMELHA_ROMA_COENTRO"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_AGO_BATIDO_GOIABA_POLPA_FRESCA",
+      "lunch": "PT_AGO_TOFU_BROA_FORNO_COENTROS",
+      "dinner": "PT_AGO_FOCACCIA_ALECRIM_TOMATE_CHERRY"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_AGO_TORRADA_MANTEIGA_CAJU_SEMENTES",
+      "lunch": "PT_AGO_ALHO_FRANCES_RECHEADO_QUINOA",
+      "dinner": "PT_AGO_SALADA_QUENTE_VAGENS_FEIJAO_TOFU"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_AGO_TACA_KEFIR_UVA_CRISP_PAINÇO",
+      "lunch": "PT_AGO_EMPADAO_SOJA_TEXTURIZADA_PURE",
+      "dinner": "PT_AGO_SALADA_TOMATE_CORAÇÃO_CEBOLA_ROXA"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_AGO_PUDIM_LINHAÇA_PERA_ROCHA",
+      "lunch": "PT_AGO_BURRITO_BOWL_ARROZ_INTEGRAL",
+      "dinner": "PT_AGO_OMELETE_CLARAS_TOMATE_CHERRY_OREGAO"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_AGO_MINI_QUICHE_TOFU_SEM_MASSA",
+      "lunch": "PT_AGO_SALADA_POTATO_SALAD_MAIONESE_VEG",
+      "dinner": "PT_AGO_SALADA_REPOLHO_CENOURA_RALADA_MACA"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_AGO_BOLACHAS_AVEIA_BANANA_CHOCOLATE",
+      "lunch": "PT_AGO_PAELLA_FALSA_TRIGO_SARRACENO_ERVIHA",
+      "dinner": "PT_AGO_SALADA_FRO_BETERRABA_COZIDA_AGRIAO"
+    },
+    {
+      "day": 31,
+      "breakfast": "PT_AGO_BRUSCHETTA_TOMATE_RALADO_AZEITE",
+      "lunch": "PT_AGO_SUSHIBOWL_ARROZ_AVOCADO_ALGA_NORI",
+      "dinner": "PT_AGO_SALADA_RUCULA_PERA_ROCHA_NOZES"
+    }
+  ],
+  "9": [
+    {
+      "day": 1,
+      "breakfast": "PT_SET_PAPA_AVEIA_MACA_CANELA_FORNO",
+      "lunch": "PT_SET_ARROZ_FORNO_COGUMELOS_CASTANHAS",
+      "dinner": "PT_SET_JAN_BATATA_DOCE_FIGOS"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_SET_TORRADA_MANTEIGA_AVELA_FIGO_CALDA",
+      "lunch": "PT_SET_ESTUFADO_GRAO_ABOBORA_MENINA",
+      "dinner": "PT_SET_JAN_RISOTO_UVAS_COGUMELOS"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_SET_PANQUECA_ABOBORA_ESPECIARIAS",
+      "lunch": "PT_SET_FEIJOADA_TRANSMONTANA_VEGETARIANA",
+      "dinner": "PT_SET_JAN_TOFU_GRELHADO_MACA"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_SET_BATIDO_OUTONO_PERA_ROCHA_NOZ",
+      "lunch": "PT_SET_RISOTO_ABOBORA_ASSADA_SALVIA",
+      "dinner": "PT_SET_JAN_QUICHE_ALHO_FRANCES_COGUMELO"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_SET_TACA_IOGURTE_UVAS_VINDIMA_GRANOLA",
+      "lunch": "PT_SET_MASSA_INTEGRAL_COGUMELOS_PORTOBELLO",
+      "dinner": "PT_SET_JAN_ESTUFADO_GRAO_ESPINAFRE"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_SET_PUDIM_CHIA_ROMA_SABUGUEIRO",
+      "lunch": "PT_SET_EMPADAO_LENTILHAS_PURE_BATATA_DOCE",
+      "dinner": "PT_SET_JAN_POLENTA_ABOBORA_SALVIA"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_SET_TORRADA_RICOTA_PERA_GRELHADA_MEL",
+      "lunch": "PT_SET_CARIL_GRAO_BICO_BATATA_DOCE",
+      "dinner": "PT_SET_JAN_MASSA_BERINGELA_ASSADA"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_SET_MUFFIN_INTEGRAL_ALFARROBA_NOZ",
+      "lunch": "PT_SET_SALADA_QUENTE_TRIGO_SARRACENO_COGUMELO",
+      "dinner": "PT_SET_JAN_BURRITO_FEIJAO_ABOBORINHA"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_SET_MEXIDO_TOFU_ESPINAFRE_ALHO_PORRO",
+      "lunch": "PT_SET_LASANHA_ESPINAFRE_RICOTA_CAJU",
+      "dinner": "PT_SET_JAN_SEITAN_VINDIMA"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_SET_PAPA_ARROZ_INTEGRAL_COCO_LARANJA",
+      "lunch": "PT_SET_HAMBURGUER_LENTILHAS_ARROZ_ESCAROLA",
+      "dinner": "PT_SET_JAN_FRITTATA_TOMATE_MANJERICAO"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_SET_CREPE_AVEIA_CREME_CHOCOLATE_NEGRO",
+      "lunch": "PT_SET_COUSCOUS_MARROQUINO_LEGUMES_RAIZ",
+      "dinner": "PT_SET_JAN_TARTE_FOLHADA_FIGO"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_SET_BOLO_CHAVENA_MACA_AMENDOA_MICROONDAS",
+      "lunch": "PT_SET_TOFU_ESTUFADO_MOLHO_VINHO_TINTO",
+      "dinner": "PT_SET_JAN_LENTILHAS_ESTUFADAS_KALE"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_SET_TORRADA_SMASH_GRAO_BICO_PIMENTA",
+      "lunch": "PT_SET_CANELONES_RECHEADOS_LENTILHAS_TOMATE",
+      "dinner": "PT_SET_JAN_GNOCCHI_TOMATE_ASSADO"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_SET_BOLO_FRIGIDEIRA_BATATA_DOCE_NOZ",
+      "lunch": "PT_SET_ALMONDEGAS_FEIJAO_PRETO_ESPAGUETE",
+      "dinner": "PT_SET_JAN_TEMPEH_FORNO_PIMENTOS"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_SET_GRANOLA_QUENTE_BEBIDA_AVEIA_PASSA",
+      "lunch": "PT_SET_STIR_FRY_TEMPEH_BROCOLOS_SESAMO",
+      "dinner": "PT_SET_JAN_SALADA_QUENTE_QUINOA_FIGO"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_SET_PUDIM_LINHACA_SABOR_TARTE_MACA",
+      "lunch": "PT_SET_QUICHE_COGUMELOS_ALHO_FRANCES",
+      "dinner": "PT_SET_JAN_TROUXAS_COUVE_GRAO"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_SET_TORRADA_HUMUS_PIMENTOS_PADRON",
+      "lunch": "PT_SET_BURRITO_BOWL_QUINOA_FEIJAO_PRETO",
+      "dinner": "PT_SET_JAN_HAMBURGUER_FEIJAO_ARROZ"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_SET_BATIDO_ROXO_UVA_PRETA_SEMENTES",
+      "lunch": "PT_SET_GNOCCHI_ABOBORA_CREME_NOZ",
+      "dinner": "PT_SET_JAN_ALMONDEGAS_LENTILHAS_ESPAGUETE"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_SET_SCONES_ESPELTA_AROMA_ERVA_DOCE",
+      "lunch": "PT_SET_XAREM_ALGARVIO_BROCOLOS_TOFU",
+      "dinner": "PT_SET_JAN_COUSCOUS_LEGUMES_GRELHADOS"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_SET_PAPA_PAINCO_COMPOTA_PERA_ROCHA",
+      "lunch": "PT_SET_SALADA_QUENTE_GRAO_BETERRABA_ASSADA",
+      "dinner": "PT_SET_JAN_WRAP_TOFU_FUMADO_ESPINAFRE"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_SET_BARRINHA_AVEIA_FORNO_ALFARROBA",
+      "lunch": "PT_SET_PAELLA_OUTONO_COGUMELOS_ALCACHOFRA",
+      "dinner": "PT_SET_JAN_TACOS_COGUMELOS_SHIITAKE"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_SET_TORRADA_CREME_AMENDOIM_MACA_QUENTE",
+      "lunch": "PT_SET_SEITAN_ASSADO_FORNO_BATATINHAS",
+      "dinner": "PT_SET_JAN_XAREM_LIGEIRO_COENTROS"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_SET_BATIDO_VERDE_KALE_PERA_GENGIBRE",
+      "lunch": "PT_SET_FAVAL_A_PORTUGUESA_VEGANO",
+      "dinner": "PT_SET_JAN_BIFE_SEITAN_ALHO_ALECRIM"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_SET_TACA_KEFIR_DOCE_FIGO_LINHACA",
+      "lunch": "PT_SET_WRAP_QUENTE_GRAO_ESPINAFRE_TAHINI",
+      "dinner": "PT_SET_JAN_CURGETE_RECHEADA_LENTILHAS"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_SET_PANQUECA_ALFARROBA_CALDA_FRAMBOESA",
+      "lunch": "PT_SET_TACOS_COGUMELOS_SHIITAKE_CEBOLA",
+      "dinner": "PT_SET_JAN_CREPE_GRAO_COGUMELOS"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_SET_GALETTE_INTEGRAL_UVAS_ASSADAS",
+      "lunch": "PT_SET_RISOTO_COGUMELOS_PORCINI_TOMILHO",
+      "dinner": "PT_SET_JAN_MIGAS_TOMATE_TOFU"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_SET_TORRADA_PATE_COGUMELOS_ALHO",
+      "lunch": "PT_SET_ESTUFADO_FEIJAO_BRANCO_COUVE_GALEGA",
+      "dinner": "PT_SET_JAN_STIR_FRY_BROCOLOS_AMENDOIM"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_SET_SMOOTHIE_BOWL_ABOBORA_AVEIA_CHIA",
+      "lunch": "PT_SET_MAC_AND_CHEESE_BATATA_DOCE_CAJU",
+      "dinner": "PT_SET_JAN_TARTE_RUSTICA_ABOBORA"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_SET_PAPA_TRIGO_SARRACENO_CHOCOLATE",
+      "lunch": "PT_SET_TORTILHA_FORNO_LEGUMES_OUTONO",
+      "dinner": "PT_SET_JAN_SALADA_WARM_GRAO_BETERRABA"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_SET_TORRADA_REQUEIJAO_VEG_DOCE_MACA",
+      "lunch": "PT_SET_SALADA_WARM_LENTILHAS_BELUGA_PERA",
+      "dinner": "PT_SET_JAN_MAC_CHEESE_ABOBORA_CAJU"
+    }
+  ],
+  "10": [
+    {
+      "day": 1,
+      "breakfast": "PT_OUT_BRUSCHETTA_BROA_ABOBORA",
+      "lunch": "PT_OUT_COZIDO_RUSTICO_LEGUMES",
+      "dinner": "PT_OUT_BATATA_DOCE_RECHEADA"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_OUT_BAKED_OATS_REINETA",
+      "lunch": "PT_OUT_ASSADO_TABULEIRO_TEMPEH",
+      "dinner": "PT_OUT_POLENTA_COGUMELOS"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_OUT_PAPA_CEVADA_DIOSPIRO",
+      "lunch": "PT_OUT_RANCHO_VEGANO_GRAO",
+      "dinner": "PT_OUT_EMPADAO_COUVE_FLOR"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_OUT_TORRADA_MARMELADA_VEG",
+      "lunch": "PT_OUT_TARTE_RUSTICA_GRELOS",
+      "dinner": "PT_OUT_TOFU_CROSTA_AVELA"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_OUT_PANQUECA_BOLOTA_PINHAO",
+      "lunch": "PT_OUT_ESTUFADO_LENTILHAS_CASTANHAS",
+      "dinner": "PT_OUT_ABOBORA_FORNO_TAHINI"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_OUT_WAFFLE_ALFARROBA_NOZ",
+      "lunch": "PT_OUT_ARROZ_MALANDRO_COGUMELOS",
+      "dinner": "PT_OUT_FRITTATA_ALHO_FRANCES"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_OUT_PUDIM_CHIA_KAKI_LARANJA",
+      "lunch": "PT_OUT_SEITAN_PIMENTA_TERRA",
+      "dinner": "PT_OUT_COGUMELOS_PORTOBELLO_RECHEADOS"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_OUT_TACA_BATATA_DOCE_COMPOTA",
+      "lunch": "PT_OUT_EMPADAO_VEGANO_ALHO_FRANCES",
+      "dinner": "PT_OUT_ESTUFADO_LENTILHAS_COUVE"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_OUT_CREPE_ESPELTA_AMENDOA",
+      "lunch": "PT_OUT_CARIL_ABOBORA_MANTEIGA_GRAO",
+      "dinner": "PT_OUT_COUVE_CORACAO_RECHEADA"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_OUT_MUFFIN_CASTANHA_CHOCOLATE",
+      "lunch": "PT_OUT_FEIJOADA_COUVE_LOMBARDA",
+      "dinner": "PT_OUT_SALADA_QUENTE_KALE"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_OUT_TOFU_MEXIDO_ALHO_PORRO",
+      "lunch": "PT_OUT_RISOTO_CEVADA_COGUMELOS",
+      "dinner": "PT_OUT_STROGANOFF_COGUMELOS"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_OUT_PAPA_CENTEIO_MACA_ASSADA",
+      "lunch": "PT_OUT_TOFU_LAGAREIRO_BATATA_MURRO",
+      "dinner": "PT_OUT_QUICHE_ALHO_PORRO"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_OUT_BATIDO_QUENTE_AVELA_AVEIA",
+      "lunch": "PT_OUT_MASSA_FORNO_ABOBORA_SALVIA",
+      "dinner": "PT_OUT_CARIL_RECONFORTANTE_LEGUMES"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_OUT_SCONES_INTEGRAIS_PASSAS",
+      "lunch": "PT_OUT_LASANHA_COGUMELOS_CREME_AVELA",
+      "dinner": "PT_OUT_MIGAS_GRELOS_BROA"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_OUT_TORRADA_SMASH_FEIJAO_ALHO",
+      "lunch": "PT_OUT_ALMONDEGAS_BOLOTA_MOLHO_TOMATE",
+      "dinner": "PT_OUT_GNOCCHI_ABOBORA_SALVIA"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_OUT_BOLO_CANECA_REINETA_CANELA",
+      "lunch": "PT_OUT_QUICHE_SEM_MASSA_GRELOS_TOFU",
+      "dinner": "PT_OUT_BIFE_COUVE_FLOR"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_OUT_GRANOLA_QUENTE_ROMA",
+      "lunch": "PT_OUT_XAREM_ALGARVIO_AMEIJOA_VEG",
+      "dinner": "PT_OUT_BRUSCHETTA_QUENTE_PATE"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_OUT_PUDIM_LINHACA_MARMELO",
+      "lunch": "PT_OUT_GNOCCHI_CASTANHA_MANTEIGA_SALVIA",
+      "dinner": "PT_OUT_TEMPEH_GRELHADO_BROCOLOS"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_OUT_TACA_IOGURTE_COCO_AVELA",
+      "lunch": "PT_OUT_CALDEIRADA_VEGAN_PALMITO_RAIZES",
+      "dinner": "PT_OUT_PATANISCAS_LEGUMES_ARROZ"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_OUT_GALETTE_OUTONO_PERA",
+      "lunch": "PT_OUT_ROLO_LENTILHAS_RECHEADO_ALHO",
+      "dinner": "PT_OUT_ESTUFADO_FEIJAO_BRANCO"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_OUT_BRUSCHETTA_COGUMELOS_ALECRIM",
+      "lunch": "PT_OUT_BURRITO_QUENTE_FEIJAO_PRETO_ABOBORA",
+      "dinner": "PT_OUT_PASTEL_FORNO_LENTILHAS"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_OUT_PANQUECA_CENTEIO_XAROPE",
+      "lunch": "PT_OUT_TACOS_COGUMELOS_PLEUROTUS_CEBOLA",
+      "dinner": "PT_OUT_SARRACENO_COGUMELOS"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_OUT_BOLO_FRIGIDEIRA_ABOBORA",
+      "lunch": "PT_OUT_STIR_FRY_TEMPEH_REPOLHO_OUTONO",
+      "dinner": "PT_OUT_QUINOA_OUTONO_FORNO"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_OUT_BATIDO_DIOSPIRO_GENGIBRE",
+      "lunch": "PT_OUT_COUSCOUS_MARROQUINO_GRAO_PASSAS",
+      "dinner": "PT_OUT_TARTE_FOLHADA_BETERRABA"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_OUT_TACA_KEFIR_NOZES_MEL",
+      "lunch": "PT_OUT_FEIJAO_FRADE_ESTUFADO_COUVE_GALEGA",
+      "dinner": "PT_OUT_MASSA_CREMOSA_CAJU"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_OUT_TORRADA_PATE_CASTANHA",
+      "lunch": "PT_OUT_MARMITA_FORNO_BATATA_DOCE_BROCOLOS",
+      "dinner": "PT_OUT_BURRITO_BOWL_NOITE"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_OUT_SMOOTHIE_KALE_MACA_REINETA",
+      "lunch": "PT_OUT_CANELONES_RECHEADOS_ESPINAFRE_RICOTA",
+      "dinner": "PT_OUT_CREPE_SALGADO_GRAO"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_OUT_PAPA_PAINCO_CACAU_NOZ",
+      "lunch": "PT_OUT_CHILI_VEGAN_LENTILHAS_ABOBORA",
+      "dinner": "PT_OUT_ESPETADAS_TOFU_LEGUMES"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_OUT_OVO_ESCALFADO_ESPINAFRE",
+      "lunch": "PT_OUT_MIGAS_ALENTEJANAS_COGUMELOS_SILVESTRES",
+      "dinner": "PT_OUT_PAPA_AVEIA_SALGADA"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_OUT_BOLACHAS_AVEIA_DIOSPIRO",
+      "lunch": "PT_OUT_ESPAGUETE_INTEGRAL_ALHO_AZEITE_NOCES",
+      "dinner": "PT_OUT_WRAP_FORNO_FEIJAO"
+    },
+    {
+      "day": 31,
+      "breakfast": "PT_OUT_WRAP_QUENTE_MANTEIGA_AMENDOIM",
+      "lunch": "PT_OUT_TORTILHA_FORNO_LEGUMES_OUTONO",
+      "dinner": "PT_OUT_XAREM_NOITE_COGUMELOS"
+    }
+  ],
+  "11": [
+    {
+      "day": 1,
+      "breakfast": "PT_NOV_PEQ_PAPA_AVEIA_TANGERINA",
+      "lunch": "PT_NOV_ALM_FEIJOADA_FEIJOCA_COGUMELOS",
+      "dinner": "PT_NOV_JAN_SEITAN_SAN_MARTINHO"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_NOV_PEQ_TORRADA_DOCE_ABOBORA",
+      "lunch": "PT_NOV_ALM_ASSADO_SÃO_MARTINHO",
+      "dinner": "PT_NOV_JAN_FEIJOADA_FEIJOCAS"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_NOV_PEQ_PANQUECA_CASTANHA_CACAU",
+      "lunch": "PT_NOV_ALM_RANCHO_VEGANO_GRÃO",
+      "dinner": "PT_NOV_JAN_CEVADOTTO_COGUMELOS"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_NOV_PEQ_BOLO_CANECA_MARMELO",
+      "lunch": "PT_NOV_ALM_ARROZ_GRELOS_PATANISCAS",
+      "dinner": "PT_NOV_JAN_GRATINADO_BATATA_NABO"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_NOV_PEQ_WAFFLE_BATATA_DOCE",
+      "lunch": "PT_NOV_ALM_ESTUFADO_LENTILHAS_CASTANHAS",
+      "dinner": "PT_NOV_JAN_TOFU_FUMADO_GRELOS"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_NOV_PEQ_PUDIM_CHIA_DIOSPIRO",
+      "lunch": "PT_NOV_ALM_ARROZ_FORNO_ABOBORA_GRAO",
+      "dinner": "PT_NOV_JAN_HAMBURGUER_LENTILHAS"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_NOV_PEQ_TOFU_MEXIDO_GRELOS",
+      "lunch": "PT_NOV_ALM_EMPADAO_SOJA_PURE_CASTANHA",
+      "dinner": "PT_NOV_JAN_LASANHA_COUVE_PENCA"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_NOV_PEQ_CREPE_ESPELTA_MACA",
+      "lunch": "PT_NOV_ALM_CARIL_QUENTE_GRAO_BATATA",
+      "dinner": "PT_NOV_JAN_TEMPEH_PASTINACA_FORNO"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_NOV_PEQ_MUFFIN_AVEIA_NOZ",
+      "lunch": "PT_NOV_ALM_MASSA_FORNO_ABOBORA_SALVIA",
+      "dinner": "PT_NOV_JAN_CARIL_BELUGA_ESPINAFRES"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_NOV_PEQ_BATIDO_QUENTE_CHOCOLATE",
+      "lunch": "PT_NOV_ALM_TOFU_LAGAREIRO_BATATA_MURRO",
+      "dinner": "PT_NOV_JAN_CROQUETES_FEIJAO_ARROZ"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_NOV_PEQ_PAPA_CENTEIO_PASSA_UVA",
+      "lunch": "PT_NOV_ALM_RISOTO_CEVADA_COGUMELOS",
+      "dinner": "PT_NOV_JAN_TARTE_CEBOLA_SALVIA"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_NOV_PEQ_TORRADA_CREME_CAJU_ANIS",
+      "lunch": "PT_NOV_ALM_LASANHA_LENTILHAS_LOMBARDA",
+      "dinner": "PT_NOV_JAN_ALMONDEGAS_BOLOTA_PURE"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_NOV_PEQ_GRANOLA_INVERNO_LEITE",
+      "lunch": "PT_NOV_ALM_ALMONDEGAS_BOLOTA_TOMATE",
+      "dinner": "PT_NOV_JAN_GNOCCHI_ESPINAFRES_NOZ"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_NOV_PEQ_SCONES_BOLOTA_ERVA_DOCE",
+      "lunch": "PT_NOV_ALM_TARTE_RUSTICA_GRELOS_TOFU",
+      "dinner": "PT_NOV_JAN_ESPAGUETE_SARRACENO"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_NOV_PEQ_BRUSCHETTA_PASTINACA_FORNO",
+      "lunch": "PT_NOV_ALM_COZIDO_LEGUMES_ENCHIDOS_VEG",
+      "dinner": "PT_NOV_JAN_TROUXAS_GALEGA_QUINOA"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_NOV_PEQ_PAPA_PAINCO_PERA_COZIDA",
+      "lunch": "PT_NOV_ALM_GNOCCHI_CASTANHA_MANTEIGA",
+      "dinner": "PT_NOV_JAN_BATATA_ROXA_HUMUS"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_NOV_PEQ_TORRADA_HUMUS_PIMENTO",
+      "lunch": "PT_NOV_ALM_CALDEIRADA_VEGAN_RAIZES",
+      "dinner": "PT_NOV_JAN_ESTUFADO_GRAO_REPOLHO"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_NOV_PEQ_BATIDO_DIOSPIRO_AVEIA",
+      "lunch": "PT_NOV_ALM_ROLO_LENTILHAS_RECHEADO",
+      "dinner": "PT_NOV_JAN_POLENTA_FRITA_PORTOBELLO"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_NOV_PEQ_GALETTE_INTEGRAL_MACA",
+      "lunch": "PT_NOV_ALM_BURRITO_FEIJAO_PRETO_ABOBORA",
+      "dinner": "PT_NOV_JAN_QUICHE_NABO_ALHO_PORRO"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_NOV_PEQ_TACA_KEFIR_ROMA_AVELA",
+      "lunch": "PT_NOV_ALM_TACOS_COGUMELOS_PLEUROTUS",
+      "dinner": "PT_NOV_JAN_ESPETADAS_TEMPEH_CASTANHAS"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_NOV_PEQ_BARRINHA_AVEIA_FORNO",
+      "lunch": "PT_NOV_ALM_STIR_FRY_TEMPEH_REPOLHO",
+      "dinner": "PT_NOV_JAN_ARROZ_FORNO_LOMBARDA"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_NOV_PEQ_OVO_FORNO_ESPINAFRES",
+      "lunch": "PT_NOV_ALM_COUSCOUS_GRAO_PASSAS_NOZ",
+      "dinner": "PT_NOV_JAN_TOFU_LAGAREIRO_NOV"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_NOV_PEQ_SMOOTHIE_BOWL_KALE_PERA",
+      "lunch": "PT_NOV_ALM_FEIJAO_FRADE_COUVE_GALEGA",
+      "dinner": "PT_NOV_JAN_CHILI_LENTILHAS_CACAU"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_NOV_PEQ_PAPA_SARRACENO_CHOCOLATE",
+      "lunch": "PT_NOV_ALM_MARMITA_BATATA_DOCE_BROCOLOS",
+      "dinner": "PT_NOV_JAN_MIGAS_COUVE_PENCA"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_NOV_PEQ_TORRADA_REQUEIJAO_DOCE",
+      "lunch": "PT_NOV_ALM_CANELONES_ESPINAFRE_RICOTA",
+      "dinner": "PT_NOV_JAN_CRUMBLE_SALGADO_RAIZES"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_NOV_PEQ_BOLACHAS_INTEGRAIS_NOZ",
+      "lunch": "PT_NOV_ALM_CHILI_VEGAN_LENTILHAS_ABOBORA",
+      "dinner": "PT_NOV_JAN_WRAP_FEIJAO_FRADE"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_NOV_PEQ_TACA_IOGURTE_MACA_CANELA",
+      "lunch": "PT_NOV_ALM_MIGAS_ALENTEJANAS_COGUMELOS",
+      "dinner": "PT_NOV_JAN_MASSA_TOMATE_AZEITONA"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_NOV_PEQ_PUDIM_LINHACA_ABOBORA",
+      "lunch": "PT_NOV_ALM_ESPAGUETE_ALHO_AZEITE_NOZ",
+      "dinner": "PT_NOV_JAN_ESTUFADO_ERVILHAS_TOFU"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_NOV_PEQ_WRAP_QUENTE_BANANA_NOZ",
+      "lunch": "PT_NOV_ALM_TORTILHA_FORNO_LEGUMES_OUT",
+      "dinner": "PT_NOV_JAN_BOLINHOS_ARROZ_GRAO"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_NOV_PEQ_BRUSCHETTA_COGUMELOS_ALHO",
+      "lunch": "PT_NOV_ALM_QUICHE_SEM_MASSA_GRELOS",
+      "dinner": "PT_NOV_JAN_EMPADAO_COGUMELOS_DOCE"
+    }
+  ],
+  "12": [
+    {
+      "day": 1,
+      "breakfast": "PT_DEZ_PEQ_RABANADA_FORNO_CANELA",
+      "lunch": "PT_DEZ_ALM_ROUPA_VELHA_VEGAN",
+      "dinner": "PT_DEZ_JAN_TOFU_ESPIRITUAL_NATAL"
+    },
+    {
+      "day": 2,
+      "breakfast": "PT_DEZ_PEQ_PAPA_AVEIA_NATAL_ESPECIARIAS",
+      "lunch": "PT_DEZ_ALM_ASSADO_NATAL_SEITAN",
+      "dinner": "PT_DEZ_JAN_POLENTA_INVERNO_COGUMELOS"
+    },
+    {
+      "day": 3,
+      "breakfast": "PT_DEZ_PEQ_TORRADA_DOCE_GILA_NOZ",
+      "lunch": "PT_DEZ_ALM_FEIJOADA_TRANS_FEIJOCAS",
+      "dinner": "PT_DEZ_JAN_BATATA_DOCE_RECHEADA_INVERNO"
+    },
+    {
+      "day": 4,
+      "breakfast": "PT_DEZ_PEQ_PANQUECA_GENGIBRE_MEL",
+      "lunch": "PT_DEZ_ALM_ARROZ_FORNO_PASSA_PINHAO",
+      "dinner": "PT_DEZ_JAN_EMPADAO_COUVE_FLOR_GRAO"
+    },
+    {
+      "day": 5,
+      "breakfast": "PT_DEZ_PEQ_BOLO_CANECA_CHOCOLATE_LARANJA",
+      "lunch": "PT_DEZ_ALM_TOFU_BROA_COUVE_TRONCHUDA",
+      "dinner": "PT_DEZ_JAN_ABOBORA_FORNO_ESPECIARIAS"
+    },
+    {
+      "day": 6,
+      "breakfast": "PT_DEZ_PEQ_WAFFLE_ALFARROBA_PASSAS",
+      "lunch": "PT_DEZ_ALM_RANCHO_WINTER_VERSION",
+      "dinner": "PT_DEZ_JAN_FRITTATA_INVERNO_ALHO_PORRO"
+    },
+    {
+      "day": 7,
+      "breakfast": "PT_DEZ_PEQ_PUDIM_CHIA_CLEMENTINA",
+      "lunch": "PT_DEZ_ALM_RISOTO_ABOBORA_NOZ_MOSCADA",
+      "dinner": "PT_DEZ_JAN_COGUMELOS_PORTOBELLO_NATAL"
+    },
+    {
+      "day": 8,
+      "breakfast": "PT_DEZ_PEQ_TOFU_MEXIDO_COUVES_BRUXELAS",
+      "lunch": "PT_DEZ_ALM_EMPADAO_LENTILHAS_PURE_DOCE",
+      "dinner": "PT_DEZ_JAN_ESTUFADO_LENTILHAS_PENCA"
+    },
+    {
+      "day": 9,
+      "breakfast": "PT_DEZ_PEQ_CREPE_AVEIA_COMPOTA_PERA",
+      "lunch": "PT_DEZ_ALM_CARIL_INVERNO_COUVE_FLOR",
+      "dinner": "PT_DEZ_JAN_TROUXAS_LOMBARDA_QUINOA"
+    },
+    {
+      "day": 10,
+      "breakfast": "PT_DEZ_PEQ_MUFFIN_BANANA_ESPECIARIAS",
+      "lunch": "PT_DEZ_ALM_MASSA_FORNO_COGUMELOS_TRUFA",
+      "dinner": "PT_DEZ_JAN_SALADA_QUENTE_BRUXELAS"
+    },
+    {
+      "day": 11,
+      "breakfast": "PT_DEZ_PEQ_BATIDO_QUENTE_AVELA_CACAU",
+      "lunch": "PT_DEZ_ALM_COZIDO_MINHOTO_VEGAN",
+      "dinner": "PT_DEZ_JAN_STROGANOFF_INVERNO_SHIITAKE"
+    },
+    {
+      "day": 12,
+      "breakfast": "PT_DEZ_PEQ_PAPA_CENTEIO_MACA_REINETA",
+      "lunch": "PT_DEZ_ALM_LASANHA_COGUMELOS_ALHO_PORRO",
+      "dinner": "PT_DEZ_JAN_QUICHE_ALHO_FRANCES_AVELA"
+    },
+    {
+      "day": 13,
+      "breakfast": "PT_DEZ_PEQ_TORRADA_CREME_AMENDOIM_CACAU",
+      "lunch": "PT_DEZ_ALM_ALMONDEGAS_LENTILHAS_MOLHO",
+      "dinner": "PT_DEZ_JAN_CARIL_GRAO_ESPINAFRE_NOITE"
+    },
+    {
+      "day": 14,
+      "breakfast": "PT_DEZ_PEQ_SCONES_NATAL_PASSAS_NOZ",
+      "lunch": "PT_DEZ_ALM_TARTE_RUSTICA_COUVE_BRUXELAS",
+      "dinner": "PT_DEZ_JAN_MIGAS_BROA_GRELOS_TOFU"
+    },
+    {
+      "day": 15,
+      "breakfast": "PT_DEZ_PEQ_BRUSCHETTA_COZIDO_FORNO",
+      "lunch": "PT_DEZ_ALM_GNOCCHI_CASTANHA_SALVIA",
+      "dinner": "PT_DEZ_JAN_GNOCCHI_ABOBORA_NOZ_MOSCADA"
+    },
+    {
+      "day": 16,
+      "breakfast": "PT_DEZ_PEQ_PAPA_PAINCO_COCO_LARANJA",
+      "lunch": "PT_DEZ_ALM_MIGAS_NATAL_COGUMELOS",
+      "dinner": "PT_DEZ_JAN_BIFE_COUVE_FLOR_AMENDOA"
+    },
+    {
+      "day": 17,
+      "breakfast": "PT_DEZ_PEQ_GRANOLA_INVERNO_IOGURTE",
+      "lunch": "PT_DEZ_ALM_STIR_FRY_TEMPEH_GALEGA",
+      "dinner": "PT_DEZ_JAN_BRUSCHETTA_QUENTE_CASTANHA"
+    },
+    {
+      "day": 18,
+      "breakfast": "PT_DEZ_PEQ_BATIDO_TANGERINA_LINHACA",
+      "lunch": "PT_DEZ_ALM_BURRITO_QUENTE_INVERNO",
+      "dinner": "PT_DEZ_JAN_TEMPEH_GRELHADO_LARANJA_INVERNO"
+    },
+    {
+      "day": 19,
+      "breakfast": "PT_DEZ_PEQ_GALETTE_SARRACENO_REINETA",
+      "lunch": "PT_DEZ_ALM_TACOS_JACKFRUIT_ESPECIARIAS",
+      "dinner": "PT_DEZ_JAN_PATANISCAS_COUVE_ARROZ"
+    },
+    {
+      "day": 20,
+      "breakfast": "PT_DEZ_PEQ_OVO_COCOTE_TRUFA_FORNO",
+      "lunch": "PT_DEZ_ALM_COUSCOUS_NATAL_FRUTOS_SECOS",
+      "dinner": "PT_DEZ_JAN_ESTUFADO_FEIJAO_MANTEIGA_TOMATE"
+    },
+    {
+      "day": 21,
+      "breakfast": "PT_DEZ_PEQ_BARRINHA_AVEIA_FRUTOS_SECOS",
+      "lunch": "PT_DEZ_ALM_FEIJAO_FRADE_GRELOS_TOFU",
+      "dinner": "PT_DEZ_JAN_PASTEL_FORNO_LENTILHAS_NATAL"
+    },
+    {
+      "day": 22,
+      "breakfast": "PT_DEZ_PEQ_TORRADA_REQUEIJAO_TOMILHO",
+      "lunch": "PT_DEZ_ALM_MARMITA_FORNO_RAIZES",
+      "dinner": "PT_DEZ_JAN_CEVADOTTO_LIGEIRO_CEBOLA"
+    },
+    {
+      "day": 23,
+      "breakfast": "PT_DEZ_PEQ_SMOOTHIE_BOWL_ESPINAFRE_PERA",
+      "lunch": "PT_DEZ_ALM_CANELONES_ABOBORA_REQUEIJAO",
+      "dinner": "PT_DEZ_JAN_QUINOA_FORNO_RAIZES_ALECRIM"
+    },
+    {
+      "day": 24,
+      "breakfast": "PT_DEZ_PEQ_PAPA_SARRACENO_MACA_ASSADA",
+      "lunch": "PT_DEZ_ALM_CHILI_VEGAN_INVERNO",
+      "dinner": "PT_DEZ_JAN_TARTE_FOLHADA_BETERRABA_NOZ"
+    },
+    {
+      "day": 25,
+      "breakfast": "PT_DEZ_PEQ_WRAP_QUENTE_AMENDOA_MAÇA",
+      "lunch": "PT_DEZ_ALM_XAREM_INVERNO_PLEUROTUS",
+      "dinner": "PT_DEZ_JAN_MASSA_CREMOSA_CAJU_BRUXELAS"
+    },
+    {
+      "day": 26,
+      "breakfast": "PT_DEZ_PEQ_BOLACHAS_BOLOTA_GINGERBREAD",
+      "lunch": "PT_DEZ_ALM_ESPAGUETE_ALHO_AZEITE_AVELA",
+      "dinner": "PT_DEZ_JAN_BURRITO_BOWL_INVERNO_ARROZ"
+    },
+    {
+      "day": 27,
+      "breakfast": "PT_DEZ_PEQ_TACA_KEFIR_ARANDOS_AVELA",
+      "lunch": "PT_DEZ_ALM_TORTILHA_FORNO_BATATA_ALHO",
+      "dinner": "PT_DEZ_JAN_CREPE_SALGADO_GRAO_PENCA"
+    },
+    {
+      "day": 28,
+      "breakfast": "PT_DEZ_PEQ_PUDIM_LINHACA_KAKI",
+      "lunch": "PT_DEZ_ALM_QUICHE_SEM_MASSA_PENCA",
+      "dinner": "PT_DEZ_JAN_ESPETADAS_TOFU_FUMADO_NABO"
+    },
+    {
+      "day": 29,
+      "breakfast": "PT_DEZ_PEQ_BRUSCHETTA_SHIITAKE_ALECRIM",
+      "lunch": "PT_DEZ_ALM_SEITAN_PIMENTA_PRETA",
+      "dinner": "PT_DEZ_JAN_PAPA_AVEIA_SALGADA_INVERNO"
+    },
+    {
+      "day": 30,
+      "breakfast": "PT_DEZ_PEQ_PANQUECA_CASTANHA_DOCE_ABOBORA",
+      "lunch": "PT_DEZ_ALM_ARROZ_MALANDRO_GRAO_TOMATE",
+      "dinner": "PT_DEZ_JAN_WRAP_FORNO_FEIJAO_ABOBORA"
+    },
+    {
+      "day": 31,
+      "breakfast": "PT_DEZ_PEQ_TACA_IOGURTE_TANGERINA_PINHAO",
+      "lunch": "PT_DEZ_ALM_BATATA_DOCE_FORNO_LENTILHAS",
+      "dinner": "PT_DEZ_JAN_XAREM_NOTURNO_GRELOS"
+    }
+  ]
+}
