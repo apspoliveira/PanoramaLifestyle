@@ -116,7 +116,7 @@ export function PrimaryButton({
 
 const styles = StyleSheet.create({
   card: { boxShadow: '0px 2px 8px rgba(0, 0, 0, 0.08)' },
-  screenContent: { padding: 16, paddingBottom: 32 },
+  screenContent: { padding: 16, paddingBottom: 135 },
   sectionTitle: {
     fontSize: 12,
     fontWeight: '700',

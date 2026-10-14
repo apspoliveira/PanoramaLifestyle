@@ -11,5 +11,5 @@ export default function Index() {
 
   if (!ready || !loaded) return <View style={{ flex: 1, backgroundColor: '#FFFFFF' }} />;
 
-  return <Redirect href={profile.setupCompleted ? '/nutrition' : '/setup'} />;
+  return <Redirect href={profile.setupCompleted ? '/home' : '/setup'} />;
 }

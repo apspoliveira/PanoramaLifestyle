@@ -19,6 +19,8 @@ export const Colors = {
   rest: '#E53935',
   trust: '#D81B60',
   settings: '#607D8B',
+  talks: '#00796B',
+  home: '#98A784',
 };
 
 export type IconSpec =
@@ -34,7 +36,9 @@ export type SectionId =
   | 'air'
   | 'rest'
   | 'trust'
-  | 'settings';
+  | 'talks'
+  | 'settings'
+  | 'home';
 
 export interface Section {
   id: SectionId;
@@ -43,7 +47,7 @@ export interface Section {
   icon: IconSpec;
 }
 
-/** Ordered like Activity_Main's fragmentID (0 = nutrition … 8 = settings). */
+/** Ordered like Activity_Main's fragmentID (0 = nutrition … 7 = trust), then the talks hub and settings. */
 export const SECTIONS: Section[] = [
   { id: 'nutrition', labelKey: 'nav_meal', color: Colors.nutrition, icon: { family: 'material', name: 'restaurant' } },
   { id: 'workout', labelKey: 'nav_exercise', color: Colors.workout, icon: { family: 'community', name: 'dumbbell' } },
@@ -53,9 +57,14 @@ export const SECTIONS: Section[] = [
   { id: 'air', labelKey: 'nav_air', color: Colors.air, icon: { family: 'material', name: 'air' } },
   { id: 'rest', labelKey: 'nav_rest', color: Colors.rest, icon: { family: 'material', name: 'bedtime' } },
   { id: 'trust', labelKey: 'nav_trust', color: Colors.trust, icon: { family: 'material', name: 'favorite' } },
+  { id: 'talks', labelKey: 'nav_talks', color: Colors.talks, icon: { family: 'material', name: 'chat' } },
   { id: 'settings', labelKey: 'nav_settings', color: Colors.settings, icon: { family: 'material', name: 'settings' } },
+  { id: 'home', labelKey: 'nav_home', color: Colors.home, icon: { family: 'material', name: 'home' } },
 ];
 
-export const sectionById = (id: SectionId) => SECTIONS.find((s) => s.id === id)!;
+/** Sections listed in the drawer; the remaining pillars are reached through the talks screen. */
+export const DRAWER_SECTIONS: SectionId[] = ['home', 'nutrition', 'workout', 'talks'];
+
+export const sectionById =(id: SectionId) => SECTIONS.find((s) => s.id === id)!;
 
 export const sectionByIndex = (index: number) => SECTIONS[index] ?? SECTIONS[0];

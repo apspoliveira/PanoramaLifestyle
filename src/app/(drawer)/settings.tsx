@@ -1,5 +1,6 @@
+import { MaterialIcons } from '@expo/vector-icons';
 import { useEffect, useRef, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
 
 import { OutlinedInput } from '@/components/OutlinedInput';
 import { useToast } from '@/components/Toast';
@@ -11,7 +12,14 @@ import {
   syncReminders,
 } from '@/services/notifications';
 import { useProfile } from '@/services/profile';
-import { REMINDERS, type ReminderSettings } from '@/services/reminders';
+import {
+  getReminderTimes,
+  saveReminderTimes,
+  REMINDERS,
+  type ReminderSettings,
+  type ReminderTime,
+  type ReminderTimesMap,
+} from '@/services/reminders';
 import { getBool, setBool } from '@/services/storage';
 import { Colors } from '@/theme';
 import { parseDecimal, parseInteger } from '@/utils/numbers';
@@ -23,6 +31,7 @@ const LANGUAGES: { code: Language; labelKey: 'lang_pt' | 'lang_en' }[] = [
 ];
 
 const noneEnabled = (): ReminderSettings => Object.fromEntries(REMINDERS.map((r) => [r.prefKey, false]));
+const defaultTimes = (): ReminderTimesMap => Object.fromEntries(REMINDERS.map((r) => [r.prefKey, r.times]));
 
 export default function SettingsScreen() {
   const { t, language, setLanguage } = useI18n();
@@ -35,6 +44,7 @@ export default function SettingsScreen() {
   const [height, setHeight] = useState('');
   const [selectedLanguage, setSelectedLanguage] = useState<Language>(language);
   const [reminders, setReminders] = useState<ReminderSettings>(noneEnabled);
+  const [times, setTimes] = useState<ReminderTimesMap>(defaultTimes);
   const permissionGranted = useRef(false);
 
   // Fill the form once the stored profile/language are available (the screen can open before they load).
@@ -53,6 +63,7 @@ export default function SettingsScreen() {
     Promise.all(REMINDERS.map((r) => getBool(r.prefKey))).then((values) =>
       setReminders(Object.fromEntries(REMINDERS.map((r, i) => [r.prefKey, values[i]]))),
     );
+    getReminderTimes().then(setTimes);
   }, []);
 
   const toggleReminder = async (prefKey: string, checked: boolean) => {
@@ -91,10 +102,11 @@ export default function SettingsScreen() {
       saveProfile(changes),
       setLanguage(selectedLanguage),
       ...REMINDERS.map((r) => setBool(r.prefKey, reminders[r.prefKey])),
+      saveReminderTimes(times),
     ]);
     const tNew = (key: Parameters<typeof t>[0], ...args: (string | number)[]) =>
       translate(selectedLanguage, key, ...args);
-    await syncReminders(reminders, tNew).catch(() => {});
+    await syncReminders(reminders, times, tNew).catch(() => {});
     toast(tNew('settings_saved'));
   };
 
@@ -153,14 +165,20 @@ export default function SettingsScreen() {
       <Card radius={16} style={styles.card}>
         <Text style={styles.sectionTitle}>{t('settings_notifications')}</Text>
         {REMINDERS.map((r) => (
-          <Checkbox
-            key={r.prefKey}
-            checked={reminders[r.prefKey]}
-            onToggle={(checked) => toggleReminder(r.prefKey, checked)}
-            color={COLOR}
-            label={t(r.labelKey)}
-            labelStyle={styles.reminderLabel}
-          />
+          <View key={r.prefKey} style={styles.reminderRow}>
+            <Checkbox
+              checked={reminders[r.prefKey]}
+              onToggle={(checked) => toggleReminder(r.prefKey, checked)}
+              color={COLOR}
+              label={t(r.labelKey)}
+              labelStyle={styles.reminderLabel}
+            />
+            <TimeEditor
+              times={times[r.prefKey] ?? r.times}
+              color={COLOR}
+              onChange={(next) => setTimes((current) => ({ ...current, [r.prefKey]: next }))}
+            />
+          </View>
         ))}
       </Card>
 
@@ -169,9 +187,71 @@ export default function SettingsScreen() {
   );
 }
 
+/** Editable list of times for one reminder: "HH : MM ✕" rows plus an "add" button. */
+function TimeEditor({
+  times,
+  color,
+  onChange,
+}: {
+  times: ReminderTime[];
+  color: string;
+  onChange: (times: ReminderTime[]) => void;
+}) {
+  const { t } = useI18n();
+
+  const update = (index: number, patch: Partial<ReminderTime>) =>
+    onChange(times.map((time, i) => (i === index ? { ...time, ...patch } : time)));
+
+  const remove = (index: number) => onChange(times.filter((_, i) => i !== index));
+
+  const add = () => onChange([...times, { hour: 9, minute: 0 }]);
+
+  return (
+    <View style={styles.timeList}>
+      {times.map((time, index) => (
+        <View key={index} style={styles.timeRow}>
+          <TimeField value={time.hour} max={23} onChange={(hour) => update(index, { hour })} />
+          <Text style={styles.timeColon}>:</Text>
+          <TimeField value={time.minute} max={59} onChange={(minute) => update(index, { minute })} />
+          <Pressable
+            role="button"
+            aria-label={t('settings_notif_remove_time')}
+            onPress={() => remove(index)}
+            hitSlop={8}
+            style={styles.timeRemove}>
+            <MaterialIcons name="close" size={16} color={Colors.textLow} />
+          </Pressable>
+        </View>
+      ))}
+      <Pressable role="button" onPress={add} style={styles.timeAdd}>
+        <MaterialIcons name="add" size={16} color={color} />
+        <Text style={[styles.timeAddText, { color }]}>{t('settings_notif_add_time')}</Text>
+      </Pressable>
+    </View>
+  );
+}
+
+/** Compact two-digit HH or MM field; typed digits are clamped to `max` as they're entered. */
+function TimeField({ value, max, onChange }: { value: number; max: number; onChange: (value: number) => void }) {
+  const handleChange = (text: string) => {
+    const digits = text.replace(/\D/g, '').slice(0, 2);
+    onChange(digits === '' ? 0 : Math.min(max, Number(digits)));
+  };
+
+  return (
+    <TextInput
+      value={String(value).padStart(2, '0')}
+      onChangeText={handleChange}
+      keyboardType="number-pad"
+      maxLength={2}
+      style={styles.timeField}
+    />
+  );
+}
+
 const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: '#F5F7F8' },
-  content: { padding: 16, paddingBottom: 32, width: '100%', maxWidth: 720, alignSelf: 'center' },
+  content: { padding: 16, paddingBottom: 140, width: '100%', maxWidth: 720, alignSelf: 'center' },
   card: { marginBottom: 16 },
   sectionTitle: {
     color: '#49454F',
@@ -189,4 +269,19 @@ const styles = StyleSheet.create({
   chipText: { color: '#1C1B1F', fontSize: 15, fontWeight: '600' },
   chipTextSelected: { color: Colors.white },
   reminderLabel: { color: '#1C1B1F', fontWeight: '500', textTransform: 'none', fontSize: 16 },
+  reminderRow: { marginBottom: 16 },
+  timeList: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginStart: 38, marginTop: -4 },
+  timeRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#F1F1F3',
+    borderRadius: 8,
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+  },
+  timeField: { width: 22, fontSize: 14, fontWeight: '600', color: '#1C1B1F', textAlign: 'center', padding: 0 },
+  timeColon: { fontSize: 14, fontWeight: '600', color: '#1C1B1F' },
+  timeRemove: { marginStart: 6 },
+  timeAdd: { flexDirection: 'row', alignItems: 'center', gap: 4, paddingVertical: 4, paddingHorizontal: 6 },
+  timeAddText: { fontSize: 13, fontWeight: '600' },
 });

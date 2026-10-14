@@ -7,7 +7,7 @@ import { dailyKey, useStoredBool } from '@/services/storage';
 import { Colors, sectionById, type SectionId } from '@/theme';
 import { HintCarousel, type HintVariant } from './HintCarousel';
 import { VideoCard } from './pillar';
-import { Checkbox, ScreenScroll, SectionTitle } from './ui';
+import { Card, Checkbox, ScreenScroll, SectionTitle } from './ui';
 
 export interface ChecklistItem {
   /** Preference prefix; stored as `<prefix>_<dd-MM-yyyy>`. */
@@ -84,19 +84,20 @@ function ChecklistItemCard({
 }) {
   const [checked, setChecked] = useStoredBool(storageKey);
 
-  return (
-    <VideoCard
-      background={dark ? Colors.proMaxCardBg : Colors.white}
-      videoId={videoId}
-      header={
-        <Checkbox
-          checked={checked}
-          onToggle={setChecked}
-          color={color}
-          label={label}
-          labelStyle={{ color: dark ? Colors.textLow : color, fontSize: labelSize }}
-        />
-      }
+  const checkbox = (
+    <Checkbox
+      checked={checked}
+      onToggle={setChecked}
+      color={color}
+      label={label}
+      labelStyle={{ color: dark ? Colors.textLow : color, fontSize: labelSize }}
     />
   );
+
+  // Items without a video yet still show their checkbox.
+  if (!videoId) {
+    return <Card style={{ backgroundColor: dark ? Colors.proMaxCardBg : Colors.white }}>{checkbox}</Card>;
+  }
+
+  return <VideoCard background={dark ? Colors.proMaxCardBg : Colors.white} videoId={videoId} header={checkbox} />;
 }

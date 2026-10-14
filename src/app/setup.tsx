@@ -43,7 +43,7 @@ export default function SetupScreen() {
       weight: parsedWeight,
       setupCompleted: true,
     });
-    router.replace('/nutrition');
+    router.replace('/home');
   };
 
   return (

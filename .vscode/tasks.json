@@ -1,0 +1,20 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Panorama Lifestyle Web",
+			"type": "shell",
+			"command": "npm.cmd",
+			"args": [
+				"run",
+				"web",
+				"--",
+				"--port",
+				"8086"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

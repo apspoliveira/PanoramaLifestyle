@@ -5,7 +5,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { useI18n } from '@/i18n';
 import { useProfile } from '@/services/profile';
-import { Colors, SECTIONS, type Section } from '@/theme';
+import { Colors, DRAWER_SECTIONS, SECTIONS, sectionById, type Section } from '@/theme';
 import { Icon } from './ui';
 
 /** NavigationView with nav_header_main and drawer_menu from Activity_Main. */
@@ -15,8 +15,11 @@ export function AppDrawerContent(props: DrawerContentComponentProps) {
   const insets = useSafeAreaInsets();
   const activeRoute = props.state.routeNames[props.state.index];
 
+  // Pillars missing from the drawer live under "talks", which stays highlighted while one is open.
+  const isTalkPillar = !DRAWER_SECTIONS.some((id) => id === activeRoute) && activeRoute !== 'settings';
+
   const renderItem = (section: Section) => {
-    const focused = activeRoute === section.id;
+    const focused = activeRoute === section.id || (section.id === 'talks' && isTalkPillar);
     return (
       <DrawerItem
         key={section.id}
@@ -26,7 +29,10 @@ export function AppDrawerContent(props: DrawerContentComponentProps) {
         activeTintColor={section.color}
         inactiveTintColor="#1C1B1F"
         activeBackgroundColor={`${section.color}1F`}
-        onPress={() => props.navigation.navigate(section.id)}
+        onPress={() => {
+          props.navigation.navigate(section.id, { from: undefined });
+          props.navigation.closeDrawer();
+        }}
       />
     );
   };
@@ -41,7 +47,7 @@ export function AppDrawerContent(props: DrawerContentComponentProps) {
         <Text style={styles.stats}>{stats}</Text>
       </View>
       <View style={styles.items}>
-        {SECTIONS.filter((s) => s.id !== 'settings').map(renderItem)}
+        {DRAWER_SECTIONS.map((id) => renderItem(sectionById(id)))}
         <View style={styles.divider} />
         <Text style={styles.subheader}>{t('nav_application')}</Text>
         {SECTIONS.filter((s) => s.id === 'settings').map(renderItem)}

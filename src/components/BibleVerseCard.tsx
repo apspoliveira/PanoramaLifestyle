@@ -4,14 +4,16 @@ import { StyleSheet, Text } from 'react-native';
 import { useI18n } from '@/i18n';
 import { Card } from './ui';
 
-const VERSE_URL = 'https://www.abibliadigital.com.br/api/verses/nvi/random';
+// abibliadigital.com.br (formerly used here) is down (HTTP 503, dead Heroku app).
+// bible-api.com's Almeida translation is the Portuguese source it still serves reliably.
+const VERSE_URL = 'https://bible-api.com/?random=verse&translation=almeida';
 
 type VerseState =
   | { status: 'loading' }
   | { status: 'loaded'; text: string; reference: string }
   | { status: 'failed' };
 
-/** "Daily inspiration" card from Fragment_Trust: random NVI verse with a fallback. */
+/** "Daily inspiration" card from Fragment_Trust: random verse with a fallback. */
 export function BibleVerseCard({ color }: { color: string }) {
   const { t } = useI18n();
   const [verse, setVerse] = useState<VerseState>({ status: 'loading' });
@@ -26,8 +28,10 @@ export function BibleVerseCard({ color }: { color: string }) {
         return res.json();
       })
       .then((json) => {
-        if (typeof json?.text !== 'string') throw new Error('Unexpected response');
-        setVerse({ status: 'loaded', text: json.text, reference: `${json.book?.name} ${json.chapter}:${json.number}` });
+        if (typeof json?.text !== 'string' || typeof json?.reference !== 'string') {
+          throw new Error('Unexpected response');
+        }
+        setVerse({ status: 'loaded', text: json.text.trim(), reference: json.reference });
       })
       .catch(() => setVerse({ status: 'failed' }))
       .finally(() => clearTimeout(timeout));

@@ -15,6 +15,7 @@ export function YouTubeEmbed({ videoId, height = 200, autoplay = false }: YouTub
         title: 'YouTube video',
         allow: 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen',
         allowFullScreen: true,
+        referrerPolicy: 'strict-origin-when-cross-origin',
         style: { border: 0, width: '100%', height: '100%' },
       })}
     </View>
